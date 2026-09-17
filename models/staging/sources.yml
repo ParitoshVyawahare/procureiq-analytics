@@ -1,0 +1,71 @@
+version: 2
+
+sources:
+  - name: procureiq_raw
+    description: "Raw procurement data loaded from CSV via Python script"
+    database: PROCUREIQ
+    schema: RAW
+    tables:
+      - name: vendors
+        description: "Vendor master data - 500 vendors across 10 categories"
+        columns:
+          - name: vendor_id
+            description: "Unique vendor identifier"
+            tests:
+              - unique
+              - not_null
+
+      - name: contracts
+        description: "Vendor contracts with negotiated rates and savings estimates"
+        columns:
+          - name: contract_id
+            description: "Unique contract identifier"
+            tests:
+              - unique
+              - not_null
+          - name: vendor_id
+            description: "FK to vendors"
+            tests:
+              - not_null
+              - relationships:
+                  arguments:
+                    to: source('procureiq_raw', 'vendors')
+                    field: vendor_id
+
+      - name: purchase_orders
+        description: "All POs issued 2024-2025"
+        columns:
+          - name: po_id
+            description: "Unique PO identifier"
+            tests:
+              - unique
+              - not_null
+          - name: vendor_id
+            description: "FK to vendors"
+            tests:
+              - not_null
+              - relationships:
+                  arguments:
+                    to: source('procureiq_raw', 'vendors')
+                    field: vendor_id
+
+      - name: invoices
+        description: "Invoices tied back to POs, with payment status and 3-way match flag"
+        columns:
+          - name: invoice_id
+            description: "Unique invoice identifier"
+            tests:
+              - unique
+              - not_null
+          - name: po_id
+            description: "FK to purchase_orders"
+            tests:
+              - not_null
+              - relationships:
+                  arguments:
+                    to: source('procureiq_raw', 'purchase_orders')
+                    field: po_id
+          - name: vendor_id
+            description: "FK to vendors"
+            tests:
+              - not_null

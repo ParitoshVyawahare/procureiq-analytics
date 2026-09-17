@@ -1,0 +1,47 @@
+version: 2
+
+models:
+  - name: fct_spend
+    description: "One row per PO with denormalized vendor + contract attributes. Foundational spend fact table."
+    columns:
+      - name: po_id
+        description: "Unique PO identifier - grain of this table"
+        tests:
+          - unique
+          - not_null
+      - name: po_amount
+        description: "Purchase order amount in USD"
+        tests:
+          - not_null
+      - name: vendor_id
+        description: "Vendor placing the PO"
+        tests:
+          - not_null
+
+  - name: fct_vendor_concentration
+    description: "Vendor-level rollup with spend, share of total, tier (Top 20 / Top 100 / Tail)"
+    columns:
+      - name: vendor_id
+        description: "Unique vendor identifier"
+        tests:
+          - unique
+          - not_null
+      - name: spend_tier
+        description: "Concentration tier: Top 20, Top 100, or Tail"
+        tests:
+          - not_null
+          - accepted_values:
+              arguments:
+                values: ['Top 20', 'Top 100', 'Tail']
+
+  - name: fct_contract_compliance
+    description: "Department + category level compliance metrics. Maverick vs on-contract."
+    columns:
+      - name: requester_dept
+        description: "Department requesting the PO"
+        tests:
+          - not_null
+      - name: category
+        description: "Spend category"
+        tests:
+          - not_null
