@@ -4,3 +4,14 @@ target/
 dbt_packages/
 logs/
 dbt_internal_packages/
+.env
+__pycache__/
+*.pyc
+.venv/
+venv/
+target/
+dbt_packages/
+logs/
+.DS_Store
+.vscode/
+Test.py

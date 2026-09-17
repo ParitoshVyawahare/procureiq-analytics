@@ -1,0 +1,501 @@
+vendor_id,vendor_name,category,region,country,preferred_status,is_strategic,diversity_classification,risk_score,onboarded_date
+V00001,"Rodriguez, Figueroa and Sanchez",Logistics,North America,Mexico,False,False,None,35,2018-11-02
+V00002,Rhodes PLC,Logistics,North America,Mexico,True,False,None,24,2018-07-10
+V00003,Johnson-Davis,Raw Materials,North America,Mexico,False,False,None,41,2019-05-25
+V00004,"Johnson, Gonzalez and Santos",Professional Services,Asia Pacific,China,False,False,None,15,2021-04-08
+V00005,Cole LLC,Professional Services,Europe,France,False,False,None,55,2022-11-08
+V00006,Blake and Sons,Professional Services,Asia Pacific,China,False,False,None,11,2022-03-09
+V00007,Ramirez-Lewis,Professional Services,Asia Pacific,Australia,False,False,Women-Owned,50,2022-07-31
+V00008,Davis Inc,IT Services,Europe,France,False,False,Small Business,17,2020-02-26
+V00009,Munoz-Roman,Professional Services,Latin America,Argentina,False,False,Minority-Owned,19,2022-05-18
+V00010,"Martinez, Nielsen and Miller",Logistics,North America,Mexico,False,False,None,37,2019-10-05
+V00011,"Montgomery, Hensley and Ray",Raw Materials,Asia Pacific,Australia,False,False,None,54,2022-03-24
+V00012,Stanley LLC,IT Services,North America,Canada,True,False,None,8,2023-11-28
+V00013,Delacruz Group,Raw Materials,Asia Pacific,India,False,False,None,35,2019-09-01
+V00014,"Flowers, Martin and Kelly",Raw Materials,Asia Pacific,India,False,False,None,27,2022-01-07
+V00015,"Zuniga, Wong and Lynch",Raw Materials,Latin America,Chile,False,False,None,13,2019-01-10
+V00016,"Sanchez, Ford and Nelson",IT Services,North America,USA,False,False,None,35,2023-07-20
+V00017,"Hawkins, Cohen and Cameron",Raw Materials,Latin America,Chile,False,False,None,13,2022-08-27
+V00018,Underwood LLC,Raw Materials,North America,Mexico,False,False,None,32,2020-05-28
+V00019,Clark PLC,Professional Services,Asia Pacific,China,False,True,None,16,2023-04-04
+V00020,Lewis-Porter,MRO,Asia Pacific,Australia,False,False,None,20,2023-04-22
+V00021,"Ellis, Baker and Wright",Logistics,Europe,UK,False,False,None,26,2021-05-14
+V00022,Burgess-Patterson,Facilities,North America,Mexico,True,False,None,39,2021-07-01
+V00023,Robinson-Bright,Capital Equipment,Asia Pacific,India,False,False,None,15,2021-01-20
+V00024,Campos Inc,IT Services,Latin America,Brazil,False,False,Veteran-Owned,30,2018-12-01
+V00025,Conner Group,Logistics,Europe,France,False,False,None,20,2021-07-30
+V00026,James-Ferrell,Facilities,Europe,France,False,False,None,18,2021-03-04
+V00027,"Valencia, Smith and Le",Capital Equipment,Latin America,Brazil,True,True,None,36,2022-02-01
+V00028,"Potter, Mack and Peterson",Raw Materials,Europe,Germany,False,False,None,20,2019-10-05
+V00029,Chavez Ltd,Capital Equipment,Asia Pacific,China,False,False,None,18,2023-04-03
+V00030,Stanton-Gill,Raw Materials,Latin America,Brazil,False,False,Minority-Owned,28,2021-01-16
+V00031,Harrell LLC,IT Services,Latin America,Chile,False,False,None,10,2023-01-18
+V00032,"Lynch, Hernandez and Farmer",Logistics,North America,USA,False,False,None,20,2021-03-27
+V00033,"Sellers, George and Burns",Professional Services,Europe,Italy,False,False,None,30,2018-09-02
+V00034,Koch-Decker,Professional Services,North America,Canada,False,True,Minority-Owned,4,2019-11-05
+V00035,Allen PLC,Logistics,North America,USA,False,False,Women-Owned,12,2023-09-05
+V00036,Dennis Inc,Raw Materials,Europe,Netherlands,False,True,Women-Owned,21,2023-11-12
+V00037,"Cannon, Anderson and Alvarez",Professional Services,Latin America,Chile,False,False,None,35,2021-04-19
+V00038,Rose-Obrien,Raw Materials,Latin America,Brazil,False,True,None,65,2023-10-13
+V00039,"Campos, Vaughn and Marquez",MRO,North America,Mexico,True,False,None,16,2020-05-23
+V00040,"Santos, Kim and Holmes",Facilities,Europe,Germany,True,False,Veteran-Owned,6,2018-09-22
+V00041,Brown Inc,Raw Materials,Europe,Netherlands,False,False,None,7,2021-07-12
+V00042,Chapman Inc,Raw Materials,North America,Canada,False,False,None,17,2018-06-05
+V00043,"Brown, Jones and Johnson",Professional Services,Asia Pacific,India,True,False,None,54,2019-12-25
+V00044,"Young, Caldwell and Lewis",Raw Materials,North America,USA,False,False,None,6,2018-10-17
+V00045,"Johnston, Sanchez and Kennedy",IT Services,Europe,Italy,False,False,None,23,2020-06-10
+V00046,Davis Group,Capital Equipment,Asia Pacific,Japan,False,False,None,31,2020-02-15
+V00047,Owens-Daniel,Logistics,North America,Mexico,False,False,Minority-Owned,15,2022-01-14
+V00048,"Garcia, Powell and Morgan",Facilities,Europe,France,True,False,None,38,2023-03-03
+V00049,Lee PLC,Professional Services,Europe,France,False,False,None,48,2020-09-09
+V00050,White-Ford,Raw Materials,North America,USA,False,True,None,9,2023-03-31
+V00051,Ramos PLC,Professional Services,Europe,France,False,False,None,36,2018-08-03
+V00052,"Kidd, Huff and Novak",Raw Materials,North America,USA,False,False,Women-Owned,29,2023-07-22
+V00053,Martin Group,IT Services,Asia Pacific,Australia,False,True,None,22,2020-11-20
+V00054,Barrera-Martin,Professional Services,North America,Canada,False,False,None,16,2018-01-05
+V00055,Baker-Bowers,Marketing,Latin America,Argentina,False,False,None,46,2020-09-23
+V00056,Horton-Cross,IT Services,Europe,Netherlands,False,False,None,9,2022-09-12
+V00057,"Higgins, Moore and Phillips",Facilities,Europe,France,False,False,None,17,2023-10-23
+V00058,"Fitzgerald, Brown and Edwards",IT Services,Latin America,Brazil,False,False,None,34,2018-04-20
+V00059,Shaw-Farrell,Marketing,Europe,UK,False,False,None,27,2018-12-11
+V00060,"Miller, Lopez and Larson",Capital Equipment,Asia Pacific,Japan,False,False,None,44,2022-01-18
+V00061,Powell PLC,Raw Materials,North America,USA,False,False,Women-Owned,13,2019-06-24
+V00062,"Williams, Miller and Sandoval",Office Supplies,North America,USA,False,False,None,40,2021-05-22
+V00063,Donovan-Harris,Raw Materials,North America,Canada,False,True,Women-Owned,32,2022-04-18
+V00064,Baker and Sons,Raw Materials,Europe,France,False,False,None,29,2022-01-11
+V00065,Bryant-Hickman,Logistics,North America,Mexico,False,False,Women-Owned,11,2023-08-12
+V00066,Ellis PLC,Professional Services,Asia Pacific,Australia,False,False,None,34,2023-12-22
+V00067,Medina PLC,Logistics,Europe,Italy,False,False,None,16,2019-08-04
+V00068,Ibarra-Suarez,Professional Services,Europe,Netherlands,False,False,Minority-Owned,80,2020-03-20
+V00069,Kim PLC,Raw Materials,Europe,Italy,False,False,None,13,2022-03-21
+V00070,"Riggs, Roman and Rice",IT Services,North America,Canada,False,False,None,12,2022-01-02
+V00071,"Evans, Alvarado and Mcmillan",Marketing,Europe,France,False,True,None,33,2018-10-22
+V00072,Preston Ltd,Professional Services,Latin America,Argentina,True,False,Minority-Owned,3,2021-04-26
+V00073,Campbell-Clark,Logistics,Europe,Netherlands,False,False,None,15,2020-01-21
+V00074,"Walters, Baker and Freeman",IT Services,North America,Canada,False,False,None,26,2023-06-06
+V00075,Davis Group,Raw Materials,Europe,Germany,False,False,None,24,2022-12-22
+V00076,Smith and Sons,Office Supplies,Asia Pacific,Singapore,False,False,None,6,2021-10-27
+V00077,Martin-Ramos,Marketing,Latin America,Brazil,False,False,None,45,2022-03-26
+V00078,"Smith, Jones and Ware",Professional Services,Asia Pacific,Australia,False,False,None,54,2023-06-03
+V00079,"Johnson, Wood and Tran",MRO,Europe,France,False,True,None,26,2020-07-30
+V00080,Parker Inc,IT Services,Latin America,Argentina,False,False,None,6,2023-05-23
+V00081,Fleming Ltd,Professional Services,Latin America,Chile,False,False,None,4,2018-08-14
+V00082,"Henson, Russell and Oliver",MRO,North America,Mexico,True,False,None,12,2018-12-05
+V00083,Hancock and Sons,MRO,Latin America,Argentina,False,False,None,32,2023-04-15
+V00084,White LLC,Professional Services,Europe,France,True,False,None,11,2022-09-10
+V00085,Pham-Shields,Logistics,Latin America,Argentina,False,False,None,10,2022-11-11
+V00086,Moore-Haynes,Logistics,North America,Canada,False,True,None,32,2020-04-17
+V00087,Garrison and Sons,Raw Materials,Latin America,Brazil,False,False,None,21,2019-03-14
+V00088,Bailey-Hoover,Professional Services,Latin America,Chile,False,False,None,30,2023-03-24
+V00089,Johnson and Sons,IT Services,North America,Mexico,False,False,None,40,2020-05-22
+V00090,Lin-Rasmussen,Logistics,North America,USA,False,True,Women-Owned,18,2019-09-04
+V00091,"Hicks, Frazier and Anthony",IT Services,Europe,Netherlands,False,False,None,23,2019-12-27
+V00092,Wilson LLC,Logistics,Asia Pacific,India,False,False,None,17,2019-01-27
+V00093,Johnson-Carlson,MRO,Europe,France,True,False,None,26,2020-01-28
+V00094,Graham-Joyce,Logistics,Latin America,Chile,False,False,Women-Owned,23,2018-09-11
+V00095,"Lee, Williams and Graham",Marketing,Europe,Germany,False,False,None,32,2021-02-12
+V00096,"Mcdaniel, Bentley and Mclaughlin",Marketing,North America,Canada,False,True,None,44,2019-03-08
+V00097,Jones-Beck,Logistics,North America,Canada,True,False,Minority-Owned,38,2019-12-25
+V00098,Alvarado-Martinez,Logistics,Latin America,Argentina,False,False,None,9,2023-05-26
+V00099,"Parker, Ortiz and Powell",Logistics,Latin America,Chile,False,False,None,20,2019-10-10
+V00100,Lee Ltd,Capital Equipment,North America,Canada,False,False,Women-Owned,16,2023-08-22
+V00101,"Adkins, Thompson and Carroll",Logistics,Latin America,Chile,False,False,None,22,2020-06-08
+V00102,Torres and Sons,IT Services,Asia Pacific,Japan,False,False,None,47,2020-07-30
+V00103,"Lawson, Morris and Ramos",Raw Materials,Europe,Germany,False,False,None,11,2022-01-19
+V00104,"Kennedy, Santana and Flynn",Professional Services,Latin America,Argentina,False,True,None,17,2019-01-07
+V00105,Campbell Ltd,Professional Services,Latin America,Argentina,False,False,None,24,2021-10-18
+V00106,Davis-Crane,Raw Materials,Asia Pacific,Singapore,False,False,Small Business,19,2019-05-30
+V00107,Walker-Gonzalez,Raw Materials,Asia Pacific,Japan,False,False,None,15,2018-02-23
+V00108,Riggs PLC,MRO,Europe,UK,False,False,None,30,2023-02-04
+V00109,Gibson Ltd,Travel,Asia Pacific,China,False,False,Minority-Owned,26,2021-06-14
+V00110,"Horton, Snyder and Sanchez",Professional Services,Europe,France,True,False,None,17,2021-12-07
+V00111,Stafford Inc,Facilities,Latin America,Brazil,False,False,Women-Owned,7,2022-09-01
+V00112,Thompson Ltd,Raw Materials,Europe,Germany,False,False,None,36,2021-02-08
+V00113,Grant Inc,IT Services,Latin America,Brazil,False,False,None,16,2020-09-26
+V00114,Contreras-Travis,Marketing,Asia Pacific,China,True,False,Small Business,64,2021-07-28
+V00115,Salazar-Ball,Logistics,Europe,Italy,False,False,None,50,2021-01-10
+V00116,"Griffin, Moore and Hensley",Raw Materials,Latin America,Chile,True,False,None,40,2020-09-12
+V00117,Larsen LLC,IT Services,Europe,UK,True,False,None,37,2022-08-05
+V00118,"Washington, Allen and Gonzales",Raw Materials,Europe,Germany,False,False,None,48,2022-04-12
+V00119,Nelson LLC,IT Services,Asia Pacific,Japan,False,False,None,45,2023-05-10
+V00120,Taylor and Sons,Facilities,Europe,Netherlands,False,False,None,31,2020-04-18
+V00121,Mccarthy Inc,Professional Services,Europe,Germany,False,False,None,34,2020-06-27
+V00122,Daniels-Perry,Marketing,Asia Pacific,Singapore,False,False,None,53,2019-03-29
+V00123,Price-Carrillo,Facilities,Latin America,Chile,True,False,None,30,2023-09-03
+V00124,Gates PLC,Professional Services,Asia Pacific,China,False,False,None,14,2020-04-13
+V00125,Bender LLC,Raw Materials,North America,Mexico,False,False,Minority-Owned,45,2022-07-09
+V00126,Medina-Navarro,IT Services,Latin America,Chile,False,False,None,35,2022-10-18
+V00127,Freeman LLC,Raw Materials,North America,Canada,False,False,None,6,2020-08-12
+V00128,Price Ltd,Capital Equipment,Asia Pacific,Singapore,False,False,None,23,2022-01-27
+V00129,Ramsey-Pittman,Marketing,North America,Canada,False,False,None,19,2023-07-07
+V00130,"Ferguson, Meadows and Vargas",MRO,North America,Mexico,False,True,Women-Owned,51,2021-12-22
+V00131,Day and Sons,Raw Materials,Latin America,Argentina,True,False,None,22,2023-03-14
+V00132,Williams Group,IT Services,Asia Pacific,Singapore,False,True,Women-Owned,13,2019-12-18
+V00133,Murphy-Juarez,Logistics,Europe,UK,True,False,None,47,2020-04-10
+V00134,King-Miller,Professional Services,North America,Canada,False,False,Women-Owned,15,2018-02-12
+V00135,"Williams, Crane and Walker",Facilities,Asia Pacific,Australia,False,False,None,5,2018-05-31
+V00136,"Williams, Johnson and Wright",Raw Materials,Latin America,Argentina,False,False,None,34,2023-01-12
+V00137,"Hernandez, Martinez and Caldwell",MRO,Europe,Germany,False,False,None,30,2021-05-20
+V00138,Marshall LLC,Facilities,Asia Pacific,China,False,False,None,27,2022-08-07
+V00139,Obrien Ltd,Office Supplies,Latin America,Brazil,False,False,None,80,2022-04-23
+V00140,Oconnell Inc,MRO,Latin America,Chile,False,False,Women-Owned,40,2021-06-21
+V00141,Johnston-Odonnell,Professional Services,Latin America,Brazil,False,False,Minority-Owned,32,2020-04-01
+V00142,"Gonzalez, Vargas and Rivas",Raw Materials,Latin America,Chile,False,False,Small Business,18,2019-06-16
+V00143,"Barton, Jefferson and Burke",IT Services,North America,USA,False,False,None,11,2018-09-23
+V00144,"Patton, Reed and Patterson",Capital Equipment,Latin America,Brazil,False,False,None,6,2020-03-22
+V00145,"Holland, Smith and Fisher",Professional Services,Europe,Germany,False,False,None,38,2020-12-09
+V00146,Yu-Reid,Logistics,North America,Canada,False,False,Minority-Owned,22,2022-12-20
+V00147,"Hernandez, Thompson and Boyd",Professional Services,Latin America,Argentina,True,False,None,17,2021-11-25
+V00148,"Morton, Medina and Webb",Facilities,Europe,Germany,True,False,None,6,2020-08-11
+V00149,"Vargas, Morris and Sanchez",Capital Equipment,Latin America,Brazil,False,True,None,20,2023-08-09
+V00150,Keith-Sanchez,Marketing,Asia Pacific,Japan,True,False,None,35,2020-10-14
+V00151,"Barnett, Rogers and Snyder",Raw Materials,Europe,UK,False,False,None,31,2019-12-13
+V00152,Lewis-Salinas,Logistics,Latin America,Argentina,False,False,None,13,2020-01-16
+V00153,"Haynes, Hill and Smith",Professional Services,North America,Canada,False,False,Women-Owned,21,2023-09-08
+V00154,Allen Group,Raw Materials,Asia Pacific,Australia,False,False,None,13,2020-12-05
+V00155,Vaughn Ltd,Raw Materials,Asia Pacific,India,False,False,Small Business,6,2022-04-08
+V00156,Mcguire-Davis,Professional Services,Asia Pacific,Australia,False,True,None,57,2019-05-01
+V00157,"Sanchez, Beck and Wood",Marketing,Latin America,Chile,False,False,None,16,2021-04-27
+V00158,Coleman-Reese,Travel,Latin America,Chile,False,False,None,48,2019-12-26
+V00159,"Chavez, Parker and Hall",IT Services,Europe,Italy,False,False,None,22,2022-04-29
+V00160,Wilson-Herrera,Logistics,Europe,Germany,False,False,Women-Owned,37,2022-07-28
+V00161,Lee Ltd,Raw Materials,Asia Pacific,India,False,False,None,38,2020-11-26
+V00162,"Lawrence, Wolf and Carlson",IT Services,Europe,Italy,False,False,Women-Owned,29,2023-11-18
+V00163,Phillips LLC,Professional Services,Europe,France,False,False,Women-Owned,35,2019-01-28
+V00164,Erickson and Sons,Professional Services,Asia Pacific,China,True,False,None,36,2019-08-24
+V00165,Tran Ltd,Professional Services,Latin America,Argentina,False,True,None,75,2023-08-30
+V00166,"Oneill, Henry and Salas",Raw Materials,Latin America,Chile,False,False,None,5,2021-06-11
+V00167,Mendoza-Peterson,Marketing,Asia Pacific,China,False,False,None,15,2023-10-16
+V00168,Everett-Woods,Facilities,Asia Pacific,Australia,True,False,None,69,2022-12-06
+V00169,Vasquez-Ray,Capital Equipment,Asia Pacific,Singapore,True,True,None,4,2022-02-12
+V00170,Hernandez PLC,Office Supplies,North America,USA,False,False,None,18,2023-09-10
+V00171,Mcknight Inc,Professional Services,Latin America,Argentina,False,False,None,27,2021-05-07
+V00172,Obrien-Gibbs,IT Services,Latin America,Argentina,False,True,None,32,2019-05-10
+V00173,"James, Kerr and Evans",Professional Services,Latin America,Chile,False,True,Veteran-Owned,48,2021-07-12
+V00174,Torres-Oliver,Logistics,Asia Pacific,China,False,False,None,31,2021-08-28
+V00175,"Garcia, Farmer and Garrett",Marketing,Latin America,Brazil,False,False,None,49,2019-08-03
+V00176,Moore and Sons,IT Services,Asia Pacific,India,False,False,Small Business,18,2021-04-23
+V00177,Smith Group,Marketing,Europe,Italy,False,False,None,85,2022-02-18
+V00178,Carter-Hall,IT Services,North America,Canada,True,False,Minority-Owned,43,2022-03-29
+V00179,"Heath, Jones and Hall",Professional Services,Europe,Germany,True,True,None,22,2019-08-03
+V00180,"Lawrence, Lara and Gonzalez",Marketing,Europe,Italy,False,True,None,12,2018-09-09
+V00181,Holland LLC,MRO,North America,Mexico,False,False,None,56,2022-12-16
+V00182,Brown LLC,Raw Materials,Latin America,Argentina,False,False,None,13,2021-07-27
+V00183,"Morse, Gonzales and Harrison",Capital Equipment,Asia Pacific,Singapore,True,False,None,18,2019-10-28
+V00184,Bender-Mason,Marketing,Latin America,Argentina,False,False,None,27,2020-12-17
+V00185,George Group,Capital Equipment,Asia Pacific,Australia,True,False,None,25,2022-05-28
+V00186,"Wright, Davis and Hayden",Raw Materials,Asia Pacific,Singapore,False,False,Small Business,17,2023-01-05
+V00187,"Matthews, Smith and Hubbard",Logistics,North America,Mexico,False,False,None,39,2022-12-04
+V00188,"Williams, Avila and Ruiz",Raw Materials,Europe,Netherlands,False,False,None,13,2021-11-27
+V00189,White-Richards,Raw Materials,Latin America,Argentina,False,False,None,46,2021-10-22
+V00190,Costa-Harrison,Professional Services,Europe,Netherlands,False,True,None,61,2020-06-13
+V00191,Santiago-Hodge,IT Services,Asia Pacific,India,False,False,None,30,2019-12-24
+V00192,"Simpson, Bates and Morales",Professional Services,North America,Canada,False,False,None,31,2022-07-24
+V00193,Gibson LLC,Capital Equipment,North America,Canada,False,False,None,13,2019-07-07
+V00194,Cordova Group,IT Services,Latin America,Brazil,False,False,Minority-Owned,72,2023-03-10
+V00195,Sandoval PLC,IT Services,Asia Pacific,Australia,False,False,None,11,2020-10-08
+V00196,Lopez LLC,MRO,North America,Mexico,False,False,Women-Owned,28,2021-09-25
+V00197,Garrett-Wolf,IT Services,Asia Pacific,Japan,False,False,None,51,2019-03-22
+V00198,"Anderson, Roberts and Gilmore",Logistics,North America,USA,False,True,None,15,2020-11-27
+V00199,Dudley PLC,Raw Materials,Latin America,Chile,False,False,None,94,2022-10-17
+V00200,"Moore, Pierce and Tran",Professional Services,North America,USA,False,True,None,13,2018-07-24
+V00201,Murray Inc,IT Services,Latin America,Argentina,False,False,None,38,2021-11-19
+V00202,Jimenez Ltd,IT Services,North America,Canada,False,False,None,46,2019-10-02
+V00203,"Hill, Davenport and Baird",Raw Materials,Asia Pacific,China,False,True,None,12,2019-06-18
+V00204,"Thomas, Lee and Greene",IT Services,Europe,UK,False,False,None,5,2022-06-23
+V00205,Shields LLC,Raw Materials,Latin America,Brazil,False,False,None,1,2022-08-20
+V00206,Morgan-French,Raw Materials,Asia Pacific,China,False,False,None,15,2019-08-09
+V00207,Campbell LLC,Raw Materials,North America,Canada,False,False,None,26,2023-01-09
+V00208,"Duarte, Burns and Hernandez",Professional Services,North America,Canada,False,False,None,52,2021-03-25
+V00209,Cook-Hines,Logistics,Asia Pacific,China,True,False,None,30,2020-04-06
+V00210,Kane-Pollard,Professional Services,North America,Canada,False,False,Women-Owned,25,2019-06-07
+V00211,Hall-Rowe,MRO,North America,Mexico,False,False,None,40,2018-04-06
+V00212,"Kennedy, Mcintyre and James",MRO,Asia Pacific,India,True,False,None,36,2023-12-05
+V00213,"Pollard, Simpson and Johnson",Logistics,North America,USA,False,False,Veteran-Owned,22,2021-01-05
+V00214,"Rivera, Garcia and Kirk",Raw Materials,Latin America,Argentina,False,False,Women-Owned,9,2018-08-07
+V00215,Smith-Thomas,Logistics,Asia Pacific,India,False,False,None,42,2023-03-23
+V00216,Jones LLC,Marketing,North America,Canada,False,False,None,30,2020-01-12
+V00217,"Sanders, Miller and Murphy",IT Services,Asia Pacific,China,False,True,None,8,2022-01-16
+V00218,"James, Stewart and Higgins",Raw Materials,Latin America,Chile,False,False,None,31,2022-07-22
+V00219,"Johnson, Jones and Welch",IT Services,Europe,France,False,False,None,17,2023-07-10
+V00220,Francis Group,Raw Materials,Asia Pacific,China,False,False,None,52,2023-11-13
+V00221,"Padilla, Garcia and Jackson",Raw Materials,Latin America,Argentina,False,False,None,14,2019-10-18
+V00222,Williams Inc,Professional Services,Latin America,Chile,True,False,None,43,2019-10-05
+V00223,Jordan-Sanchez,Professional Services,Asia Pacific,China,False,False,None,56,2020-06-21
+V00224,"Sparks, Jackson and Miller",Capital Equipment,Europe,France,False,False,None,20,2023-03-23
+V00225,"Vega, Jimenez and Aguilar",Professional Services,Latin America,Brazil,False,False,None,26,2019-05-24
+V00226,"King, Scott and Smith",Professional Services,Asia Pacific,India,False,False,None,34,2022-10-29
+V00227,Byrd-Moore,Logistics,North America,Mexico,False,True,None,30,2020-08-25
+V00228,Huerta-Evans,Professional Services,Europe,France,False,False,Women-Owned,7,2023-10-08
+V00229,"Wright, Bruce and Gonzalez",IT Services,North America,Canada,True,False,Minority-Owned,20,2020-04-22
+V00230,Rodriguez-James,Marketing,North America,Mexico,False,False,None,46,2020-02-26
+V00231,Haney-Phillips,Professional Services,Europe,UK,False,False,Minority-Owned,22,2023-11-12
+V00232,"Foster, Smith and Grimes",IT Services,Latin America,Brazil,False,False,None,56,2022-09-01
+V00233,Lozano Ltd,Raw Materials,Asia Pacific,Singapore,False,False,None,45,2020-12-23
+V00234,Parsons-Hall,Marketing,Europe,France,False,False,None,22,2022-10-23
+V00235,Fields PLC,MRO,Latin America,Argentina,False,False,None,19,2019-07-03
+V00236,"Saunders, Becker and Taylor",Marketing,Europe,France,False,False,None,11,2018-08-01
+V00237,"Lucas, Parker and Alexander",Facilities,North America,Canada,False,False,None,11,2021-06-23
+V00238,"Anderson, Browning and Murphy",Raw Materials,Latin America,Brazil,False,False,Women-Owned,22,2020-06-28
+V00239,Anderson PLC,Professional Services,North America,Canada,False,False,None,17,2023-04-04
+V00240,Schmidt-Mcintyre,Office Supplies,Asia Pacific,India,False,False,None,23,2022-12-24
+V00241,Sloan-Raymond,Logistics,Europe,UK,False,False,None,43,2023-10-20
+V00242,Francis-Morgan,Marketing,Latin America,Chile,False,True,None,30,2018-09-10
+V00243,Taylor and Sons,IT Services,Europe,Italy,False,False,Women-Owned,41,2023-02-27
+V00244,"Craig, Sanders and Singleton",MRO,Europe,France,False,False,None,23,2021-05-05
+V00245,Gibbs Inc,Logistics,North America,USA,False,False,Minority-Owned,30,2019-08-03
+V00246,Gibson Ltd,Logistics,Europe,UK,True,False,None,22,2022-06-29
+V00247,Richards-Carson,Raw Materials,Europe,Germany,False,False,None,22,2023-08-22
+V00248,Leonard Group,Raw Materials,North America,Canada,True,False,Women-Owned,60,2018-02-24
+V00249,"Murphy, Bishop and Holland",Professional Services,North America,Canada,False,False,Minority-Owned,82,2021-10-23
+V00250,Blankenship-Turner,Logistics,Asia Pacific,India,False,False,None,33,2020-06-13
+V00251,Williams Inc,IT Services,Latin America,Argentina,False,False,None,15,2019-10-29
+V00252,Wilson-Young,MRO,Latin America,Brazil,True,False,None,58,2021-03-23
+V00253,Chavez-Santiago,IT Services,Asia Pacific,Australia,False,False,None,13,2022-06-16
+V00254,"Barnes, Newton and Moore",IT Services,Europe,France,False,False,None,14,2020-06-27
+V00255,Bass PLC,Professional Services,North America,Canada,False,False,None,46,2020-06-12
+V00256,Johnson-Wood,Facilities,Asia Pacific,India,False,False,None,34,2020-08-29
+V00257,Foley Inc,Raw Materials,North America,Mexico,False,False,None,22,2023-11-19
+V00258,Stephens-Levine,IT Services,Asia Pacific,Japan,False,False,None,75,2020-02-25
+V00259,Hill-Donaldson,Raw Materials,Latin America,Brazil,False,True,None,25,2023-09-10
+V00260,Davis-Lewis,Capital Equipment,Asia Pacific,Australia,False,False,Small Business,19,2021-11-01
+V00261,Williams LLC,Facilities,North America,Mexico,False,False,None,21,2019-06-18
+V00262,Buchanan and Sons,Logistics,North America,USA,False,False,Minority-Owned,54,2018-05-31
+V00263,"Clark, Robinson and Kane",IT Services,Europe,France,False,True,None,43,2019-12-21
+V00264,Kramer PLC,IT Services,Latin America,Chile,False,False,None,33,2018-01-07
+V00265,Huerta PLC,Raw Materials,Latin America,Chile,False,False,None,28,2019-07-03
+V00266,Rodriguez Inc,MRO,Latin America,Argentina,False,False,None,20,2018-10-16
+V00267,Tyler-Young,Professional Services,Latin America,Brazil,False,False,Small Business,19,2019-12-11
+V00268,Baker and Sons,Raw Materials,North America,USA,False,False,Minority-Owned,42,2022-06-13
+V00269,"Wilson, Brown and West",Raw Materials,North America,Mexico,False,False,Veteran-Owned,9,2020-03-03
+V00270,"Rodriguez, Gordon and Dougherty",MRO,Asia Pacific,Japan,False,False,Minority-Owned,6,2018-04-05
+V00271,"Boyd, Ellis and Maynard",Logistics,Asia Pacific,Australia,False,False,None,37,2018-05-14
+V00272,Boone-Simmons,Professional Services,Latin America,Brazil,False,False,None,18,2018-08-25
+V00273,"Browning, Jones and Miller",Office Supplies,Europe,Italy,True,False,Women-Owned,46,2021-08-25
+V00274,Martinez PLC,MRO,Latin America,Argentina,False,False,None,44,2021-10-18
+V00275,"Joseph, James and Harper",IT Services,Asia Pacific,China,False,False,None,27,2019-10-08
+V00276,"Jacobs, Garcia and Miles",Capital Equipment,Europe,UK,False,True,None,44,2023-02-11
+V00277,"Rich, Arnold and Glenn",IT Services,Europe,France,False,False,None,45,2020-07-30
+V00278,Gutierrez Group,Professional Services,Asia Pacific,China,False,False,None,51,2020-05-23
+V00279,"Davis, Simmons and Ortega",IT Services,Asia Pacific,Australia,False,False,None,19,2020-03-30
+V00280,Mcdaniel Group,Facilities,Europe,UK,False,False,None,5,2018-05-28
+V00281,Davis Inc,Marketing,North America,USA,False,False,None,1,2022-06-19
+V00282,Cain-Hawkins,Professional Services,Europe,Italy,False,False,None,44,2021-07-08
+V00283,"Hoffman, Santiago and Jenkins",Logistics,Asia Pacific,Japan,False,False,None,25,2023-03-29
+V00284,Parrish-Griffith,Professional Services,North America,Mexico,False,False,None,12,2023-10-22
+V00285,"Edwards, Garcia and Romero",IT Services,Europe,France,False,False,Women-Owned,29,2018-12-05
+V00286,Walker-Rodriguez,Professional Services,Latin America,Brazil,False,False,None,24,2023-01-26
+V00287,Wilson-Ramirez,Professional Services,North America,Canada,True,True,None,27,2019-05-11
+V00288,Bruce-Villegas,Facilities,Latin America,Brazil,False,False,Veteran-Owned,23,2022-11-28
+V00289,"Leonard, Hawkins and Lynch",Facilities,Asia Pacific,India,False,False,None,39,2021-12-11
+V00290,"Adams, White and Park",Raw Materials,Asia Pacific,Singapore,False,False,None,83,2019-11-08
+V00291,Bell-White,Travel,Europe,Italy,True,False,None,24,2018-11-10
+V00292,"Morales, Thomas and Schultz",Capital Equipment,Latin America,Chile,False,False,None,16,2018-03-09
+V00293,"Moreno, Bennett and Chavez",Capital Equipment,Asia Pacific,Singapore,False,False,None,36,2018-12-11
+V00294,Griffith-Frank,IT Services,Asia Pacific,China,False,False,None,15,2021-05-28
+V00295,Ware and Sons,Marketing,North America,USA,False,False,Veteran-Owned,9,2018-12-11
+V00296,"Williams, Miller and Ramos",Professional Services,Asia Pacific,India,False,False,None,32,2020-07-17
+V00297,"Ramos, Nelson and Fischer",IT Services,Europe,France,False,False,Minority-Owned,30,2018-09-07
+V00298,Rodriguez-Gregory,Capital Equipment,Europe,France,False,False,Women-Owned,7,2021-07-22
+V00299,"Estrada, Williams and Foster",Logistics,Asia Pacific,Australia,False,False,None,47,2021-08-05
+V00300,Harris and Sons,MRO,Asia Pacific,Singapore,False,False,Minority-Owned,31,2022-08-08
+V00301,Roberts-Wilson,Travel,Asia Pacific,China,False,False,None,20,2020-12-25
+V00302,Thompson-James,Travel,Europe,Germany,False,False,None,3,2022-03-22
+V00303,"Hansen, Barnett and Gomez",Logistics,Latin America,Brazil,False,False,Minority-Owned,41,2020-05-19
+V00304,"Williams, Smith and Morse",MRO,Europe,Germany,False,False,None,30,2023-03-04
+V00305,"Patterson, Sullivan and Bowman",IT Services,Latin America,Argentina,False,False,None,36,2019-09-27
+V00306,Smith-Nguyen,Raw Materials,Latin America,Argentina,False,False,None,31,2022-10-21
+V00307,"Stevens, Norris and Cox",Raw Materials,Asia Pacific,Japan,False,False,None,6,2020-08-14
+V00308,Sanchez PLC,Raw Materials,Europe,France,False,False,None,21,2020-05-26
+V00309,Foster LLC,Raw Materials,Latin America,Chile,False,False,None,42,2022-06-22
+V00310,Cook and Sons,Professional Services,Latin America,Chile,False,False,Minority-Owned,8,2018-06-17
+V00311,"Wilson, Hicks and Bullock",Professional Services,Asia Pacific,China,False,False,None,24,2020-02-05
+V00312,"Mullen, Brewer and Hernandez",Raw Materials,Europe,Italy,False,False,None,10,2018-08-14
+V00313,Gonzalez-Morrison,IT Services,Europe,UK,False,False,None,39,2022-07-23
+V00314,"Jones, Bean and Burton",Professional Services,North America,Canada,False,False,None,25,2020-10-13
+V00315,"Wolf, Cole and Glass",IT Services,Europe,Netherlands,False,False,None,38,2021-05-21
+V00316,"Downs, Morris and Maddox",Logistics,Asia Pacific,Japan,True,False,None,36,2019-11-24
+V00317,Jones-Ramos,Logistics,Europe,Italy,False,True,None,58,2019-10-26
+V00318,Vargas-Bell,Facilities,Latin America,Brazil,True,False,Women-Owned,56,2018-06-12
+V00319,Hayes-Brown,Marketing,Europe,France,True,False,Women-Owned,8,2022-12-27
+V00320,Newman Inc,IT Services,Asia Pacific,Japan,False,False,None,34,2021-09-08
+V00321,"Cruz, Carpenter and Best",Capital Equipment,Europe,Italy,False,False,None,60,2022-06-07
+V00322,Cole PLC,IT Services,Latin America,Argentina,False,False,None,31,2021-11-28
+V00323,Jacobs-Mason,Marketing,Europe,UK,False,False,None,64,2023-09-29
+V00324,Garcia-Nolan,Raw Materials,Asia Pacific,China,True,False,None,22,2020-01-23
+V00325,"Miller, Lucas and Williams",Raw Materials,Europe,Germany,False,False,None,45,2022-03-30
+V00326,Warren-Bishop,Facilities,Asia Pacific,Australia,True,False,None,59,2020-03-07
+V00327,Hughes-Schroeder,Logistics,North America,Mexico,False,False,None,13,2022-01-26
+V00328,Mccormick Ltd,Raw Materials,Asia Pacific,China,False,False,None,23,2020-01-03
+V00329,Davis-Gregory,Professional Services,Europe,Netherlands,False,False,None,60,2019-09-15
+V00330,"York, Brandt and Morrison",Professional Services,Latin America,Argentina,False,False,Minority-Owned,29,2018-11-26
+V00331,Aguilar and Sons,Logistics,North America,Mexico,False,True,None,40,2023-07-01
+V00332,Ponce-Hale,Raw Materials,North America,Mexico,False,False,Women-Owned,45,2020-05-08
+V00333,"Fletcher, Miller and Hansen",IT Services,Latin America,Brazil,False,False,None,18,2021-11-10
+V00334,Li-Santiago,Capital Equipment,Latin America,Brazil,False,False,None,41,2022-12-21
+V00335,"Osborn, Gaines and Davis",IT Services,Latin America,Argentina,False,False,Minority-Owned,34,2022-01-08
+V00336,"Cox, Cox and White",Marketing,Europe,Italy,False,False,None,17,2019-04-15
+V00337,Lee-Cooke,Raw Materials,North America,USA,False,False,Small Business,20,2018-12-06
+V00338,Richard-Garcia,IT Services,Europe,Netherlands,False,False,None,60,2022-08-16
+V00339,"Stephenson, Johnson and Rogers",Facilities,Latin America,Chile,False,False,None,14,2022-08-06
+V00340,Harper and Sons,IT Services,Asia Pacific,China,False,False,None,43,2018-12-22
+V00341,"Wise, Lamb and Martin",MRO,Europe,Germany,False,False,None,30,2020-08-16
+V00342,Diaz-Ball,MRO,Latin America,Argentina,False,False,None,45,2023-10-25
+V00343,"Mitchell, Goodman and Cole",IT Services,Europe,Germany,False,False,None,42,2021-03-15
+V00344,Sheppard-Mueller,Facilities,North America,USA,True,True,None,27,2023-06-03
+V00345,Richardson PLC,Raw Materials,North America,USA,False,False,None,18,2023-11-26
+V00346,Hammond-Strickland,IT Services,North America,USA,False,False,None,55,2021-01-06
+V00347,Burch-Montoya,MRO,Asia Pacific,Australia,False,False,None,50,2022-10-21
+V00348,Salas Inc,Professional Services,Europe,Italy,False,True,None,32,2021-11-05
+V00349,Spencer-Garcia,Facilities,Europe,Netherlands,True,False,None,29,2023-01-27
+V00350,Mitchell and Sons,Logistics,Latin America,Argentina,False,False,None,12,2019-08-21
+V00351,"Hernandez, Kim and Potts",Professional Services,Latin America,Brazil,False,False,Minority-Owned,44,2019-05-02
+V00352,Wilkerson-Arias,Marketing,North America,Mexico,False,False,None,57,2020-06-27
+V00353,Shaw-Young,Professional Services,Asia Pacific,India,True,False,None,12,2023-12-19
+V00354,Walker-Flores,Professional Services,Europe,Germany,False,False,None,14,2018-08-05
+V00355,"Santos, Moody and Taylor",Capital Equipment,Europe,Italy,False,False,None,18,2019-09-21
+V00356,Horton-Taylor,Capital Equipment,Asia Pacific,Japan,True,False,Veteran-Owned,19,2022-03-26
+V00357,Gilbert-Bullock,Travel,North America,Mexico,False,False,Small Business,27,2018-02-11
+V00358,Conley PLC,Logistics,Europe,Netherlands,False,False,Women-Owned,25,2023-08-22
+V00359,"Rose, Rodriguez and Roberts",Professional Services,Asia Pacific,Japan,False,False,None,11,2019-10-22
+V00360,Allen Ltd,IT Services,Latin America,Chile,False,False,Women-Owned,58,2022-10-05
+V00361,Brown-Copeland,Raw Materials,Europe,UK,False,False,None,14,2020-12-30
+V00362,"Smith, Robertson and Allen",MRO,Asia Pacific,India,False,False,None,26,2018-11-11
+V00363,Smith-Gomez,Professional Services,Asia Pacific,Japan,False,False,None,16,2021-06-03
+V00364,Beck Inc,MRO,Latin America,Brazil,False,False,None,50,2021-02-20
+V00365,Jones-Fox,Raw Materials,Europe,Italy,False,False,Small Business,21,2021-01-16
+V00366,"Spencer, Myers and Harrison",Marketing,North America,Mexico,True,False,None,30,2021-10-24
+V00367,King-Smith,Logistics,North America,Mexico,False,False,None,60,2022-09-23
+V00368,Allen-Sandoval,IT Services,Latin America,Argentina,True,False,None,22,2018-08-16
+V00369,"Moss, Cook and Williams",IT Services,Asia Pacific,Australia,True,False,Veteran-Owned,33,2021-04-10
+V00370,"Thompson, Maxwell and Marshall",Logistics,Europe,Germany,False,False,Women-Owned,15,2022-03-03
+V00371,"White, Taylor and Baldwin",Logistics,Asia Pacific,Japan,False,False,None,26,2023-08-29
+V00372,Carter Inc,Professional Services,Europe,UK,False,True,None,38,2022-09-29
+V00373,Stewart LLC,Office Supplies,North America,USA,False,False,None,12,2021-02-02
+V00374,"Kennedy, Johnson and Lucas",Logistics,Europe,Germany,False,False,None,23,2019-09-19
+V00375,Glenn LLC,Raw Materials,North America,Mexico,False,False,Women-Owned,33,2019-08-22
+V00376,Kim-Ross,Logistics,Latin America,Chile,True,False,None,7,2020-08-21
+V00377,Morgan-Lopez,Capital Equipment,North America,USA,False,False,Women-Owned,37,2022-02-24
+V00378,Glass-Stone,Raw Materials,Latin America,Brazil,False,False,None,31,2022-10-21
+V00379,"Coleman, Jordan and Carney",Marketing,Asia Pacific,Singapore,True,False,None,19,2019-01-31
+V00380,Morris-Miller,MRO,Asia Pacific,China,False,True,None,28,2021-12-18
+V00381,Griffin-Robbins,Logistics,Latin America,Chile,False,False,None,60,2018-12-31
+V00382,Bell-Williams,Raw Materials,Asia Pacific,Australia,False,False,Women-Owned,9,2023-03-21
+V00383,Mendez-Graham,Logistics,North America,Mexico,False,True,None,27,2021-11-01
+V00384,Jones Ltd,Professional Services,Latin America,Argentina,False,False,Minority-Owned,50,2020-06-08
+V00385,"Owen, Shelton and Cisneros",Professional Services,North America,USA,False,False,Women-Owned,15,2018-11-09
+V00386,"Gregory, Kim and Martinez",IT Services,North America,USA,False,False,None,21,2019-06-01
+V00387,"Diaz, Reyes and Bradley",IT Services,North America,Canada,False,False,None,46,2021-08-18
+V00388,"Cole, Watson and Wallace",Capital Equipment,North America,Canada,False,False,None,27,2018-06-18
+V00389,Moreno Group,Raw Materials,Europe,Italy,False,False,None,18,2019-11-20
+V00390,Wright-Wilson,Professional Services,Asia Pacific,Singapore,False,False,None,11,2022-05-31
+V00391,Holmes-Mcintyre,Professional Services,North America,Canada,False,False,None,42,2018-09-15
+V00392,Padilla-Lewis,Raw Materials,Europe,Netherlands,False,False,None,64,2021-09-02
+V00393,"Hendricks, Henry and Martinez",Professional Services,Latin America,Chile,False,False,None,30,2023-02-11
+V00394,Thompson-Reeves,Logistics,Europe,France,False,False,None,41,2023-12-25
+V00395,"Ponce, Downs and Contreras",Professional Services,Latin America,Chile,False,False,None,19,2022-04-03
+V00396,"Daniels, Vance and York",Raw Materials,Europe,France,False,False,None,13,2022-04-08
+V00397,"Little, Leon and Hicks",IT Services,Europe,Italy,False,False,Small Business,9,2018-09-23
+V00398,Conner and Sons,IT Services,Latin America,Argentina,False,False,None,36,2022-09-27
+V00399,Ward PLC,IT Services,Latin America,Argentina,False,False,None,50,2020-03-18
+V00400,"Anderson, Henson and Jones",Logistics,Latin America,Chile,False,False,None,23,2020-05-21
+V00401,"Higgins, Fox and Hammond",Professional Services,Latin America,Argentina,False,False,None,40,2022-12-09
+V00402,Martinez LLC,Marketing,North America,USA,False,False,None,26,2021-11-07
+V00403,Owens-Holmes,Logistics,North America,Mexico,False,False,Small Business,38,2018-10-09
+V00404,"Bowman, White and Burch",MRO,Latin America,Brazil,False,False,None,22,2020-08-05
+V00405,Guerra PLC,Raw Materials,Europe,Netherlands,False,False,None,4,2018-12-02
+V00406,Martin Ltd,Logistics,Europe,France,False,False,Small Business,16,2019-05-09
+V00407,"Jacobson, Singleton and King",Facilities,North America,USA,False,False,Minority-Owned,19,2021-10-22
+V00408,"Hill, Weber and Mendez",Professional Services,Europe,Italy,False,False,None,26,2018-07-24
+V00409,"Jackson, David and Moore",Logistics,Asia Pacific,China,False,False,None,35,2021-12-13
+V00410,"Winters, Morgan and Bradshaw",Marketing,North America,Mexico,False,False,Minority-Owned,8,2018-04-01
+V00411,Miller Ltd,Raw Materials,Europe,France,False,False,None,10,2022-08-16
+V00412,Curtis-Wang,Professional Services,Europe,UK,False,True,None,24,2020-07-01
+V00413,"Johnson, Small and Gardner",Logistics,Europe,Netherlands,False,False,None,54,2021-11-06
+V00414,Webb-Ballard,IT Services,North America,Mexico,False,False,None,33,2022-02-09
+V00415,Chavez-Barker,Professional Services,Latin America,Brazil,False,False,None,11,2018-12-13
+V00416,Washington-Harris,Logistics,Latin America,Argentina,True,False,None,7,2021-08-21
+V00417,Hensley-Flores,Raw Materials,Europe,France,False,False,Women-Owned,22,2023-12-04
+V00418,Hester-Anderson,Professional Services,Europe,France,False,False,None,23,2020-03-22
+V00419,"Rodriguez, Allen and Martinez",Professional Services,Europe,Italy,False,False,None,46,2020-09-11
+V00420,Davis LLC,Logistics,Europe,Italy,False,False,None,10,2023-09-02
+V00421,"Barnes, Estes and Barrera",Marketing,North America,Canada,False,False,Veteran-Owned,35,2022-11-17
+V00422,"Griffith, Lee and Moore",Professional Services,Latin America,Chile,False,False,None,11,2023-12-22
+V00423,Jimenez-Parker,Raw Materials,North America,Mexico,False,False,None,52,2018-02-20
+V00424,Wagner-Levy,Professional Services,Asia Pacific,India,False,False,Minority-Owned,46,2019-04-17
+V00425,Williams-Campbell,Raw Materials,North America,Mexico,False,False,None,44,2021-08-01
+V00426,"Chambers, Mitchell and Smith",Professional Services,North America,Mexico,False,False,None,45,2018-08-24
+V00427,Khan Ltd,MRO,Europe,France,True,False,Women-Owned,20,2020-03-12
+V00428,Diaz-Morales,Capital Equipment,North America,Canada,True,False,Women-Owned,55,2021-06-02
+V00429,Cox LLC,IT Services,Asia Pacific,Australia,False,False,None,24,2018-06-11
+V00430,"Cole, Pierce and Bryan",IT Services,Europe,Germany,False,False,None,35,2021-09-26
+V00431,"Wilson, Hester and Long",IT Services,Asia Pacific,Japan,False,False,None,56,2022-10-07
+V00432,Grant-Diaz,Capital Equipment,North America,USA,False,False,Veteran-Owned,6,2018-11-12
+V00433,"Hicks, Porter and Williams",Office Supplies,Europe,UK,False,False,None,47,2018-10-28
+V00434,Brock-Stone,MRO,Latin America,Chile,False,False,None,36,2018-11-23
+V00435,"Taylor, Velazquez and Flores",Professional Services,North America,Mexico,False,False,Minority-Owned,40,2020-05-10
+V00436,"Stevenson, Evans and Rogers",MRO,Asia Pacific,Singapore,False,True,Veteran-Owned,14,2022-12-19
+V00437,"Burns, Hart and Wells",MRO,North America,Mexico,False,False,Veteran-Owned,14,2018-02-06
+V00438,Nunez-Whitney,Capital Equipment,Latin America,Brazil,False,False,Veteran-Owned,26,2021-07-02
+V00439,"Wiggins, Soto and Carlson",Professional Services,Asia Pacific,Japan,True,False,None,26,2019-08-05
+V00440,"Patton, Parsons and Lane",Marketing,North America,USA,False,False,None,20,2022-04-29
+V00441,"Castillo, Warren and Griffith",IT Services,Europe,Netherlands,False,False,None,51,2022-08-24
+V00442,Hernandez-Becker,Office Supplies,Europe,France,False,False,None,1,2018-03-11
+V00443,"Rodriguez, Smith and Edwards",Logistics,Asia Pacific,China,False,False,None,23,2018-11-28
+V00444,"Harris, Shaw and Carr",Professional Services,Asia Pacific,India,True,True,None,8,2020-10-29
+V00445,"Luna, Thornton and Stone",IT Services,North America,USA,False,False,None,54,2021-05-13
+V00446,"Mendoza, Bennett and Frye",IT Services,Asia Pacific,China,False,False,Small Business,33,2020-10-03
+V00447,"Peterson, Gomez and Ingram",IT Services,Latin America,Brazil,True,False,None,22,2022-04-28
+V00448,"Lara, Baker and Washington",Capital Equipment,Europe,Netherlands,False,False,None,12,2023-09-28
+V00449,Grant-Walker,Office Supplies,Europe,Germany,True,False,None,32,2023-11-01
+V00450,Wise-Bush,Raw Materials,Europe,UK,False,False,Women-Owned,9,2022-02-20
+V00451,Stewart-Bailey,IT Services,North America,USA,False,False,None,33,2023-08-07
+V00452,"Hill, Martinez and Rhodes",Travel,Asia Pacific,India,False,False,None,58,2020-04-11
+V00453,Cardenas-Blevins,Logistics,Asia Pacific,China,False,False,Minority-Owned,54,2022-10-29
+V00454,Williams-Moses,Raw Materials,Europe,Netherlands,True,False,None,14,2018-06-23
+V00455,Douglas-Burgess,Facilities,Latin America,Chile,False,False,None,53,2019-04-14
+V00456,"Nelson, Hoffman and Nelson",Raw Materials,North America,Canada,True,False,Women-Owned,4,2018-08-28
+V00457,"Matthews, Sanchez and Santiago",Raw Materials,Asia Pacific,Australia,False,False,None,22,2021-03-08
+V00458,"Hall, Garcia and Rivera",MRO,North America,Mexico,False,True,None,15,2020-10-31
+V00459,"Townsend, Smith and Pierce",IT Services,Latin America,Argentina,False,False,None,3,2023-07-28
+V00460,Delgado-Gilmore,Raw Materials,Latin America,Brazil,False,False,None,41,2020-11-07
+V00461,"Gonzalez, Maynard and Morris",IT Services,North America,Mexico,False,False,Women-Owned,47,2021-11-15
+V00462,Pearson and Sons,Professional Services,North America,Canada,False,False,None,45,2021-03-17
+V00463,"Jefferson, Johnson and Dorsey",IT Services,North America,Canada,False,True,None,29,2020-07-04
+V00464,Peck Inc,Logistics,Europe,Germany,True,True,None,32,2023-12-24
+V00465,French-Lopez,Raw Materials,Asia Pacific,Australia,False,False,None,60,2022-06-29
+V00466,Mcdowell-Smith,Professional Services,Asia Pacific,China,True,False,None,22,2021-05-28
+V00467,Hebert LLC,Professional Services,North America,Canada,False,True,None,32,2019-09-16
+V00468,"Daniels, Snyder and Mays",Raw Materials,Asia Pacific,China,False,False,None,76,2023-02-07
+V00469,Nelson-Lamb,Professional Services,North America,Mexico,True,False,None,47,2019-12-26
+V00470,"Stevens, Scott and Lopez",IT Services,North America,USA,False,False,None,46,2022-06-02
+V00471,Bradley-Todd,IT Services,North America,Mexico,False,False,Minority-Owned,33,2019-01-20
+V00472,"Prince, Wilcox and Robertson",Professional Services,Europe,Netherlands,False,False,Women-Owned,29,2018-07-09
+V00473,"Davis, Holden and Woods",Raw Materials,North America,Mexico,True,False,None,30,2023-08-12
+V00474,Green and Sons,Raw Materials,North America,Canada,False,False,None,32,2020-09-05
+V00475,Finley-Turner,Marketing,Asia Pacific,China,True,False,None,6,2022-05-03
+V00476,Green LLC,Raw Materials,Asia Pacific,Australia,False,False,None,33,2022-02-26
+V00477,Contreras Group,Office Supplies,Europe,Italy,False,True,None,56,2019-11-03
+V00478,Parks-Leblanc,Professional Services,Europe,Italy,False,False,None,16,2023-04-29
+V00479,Vaughn-Fowler,Facilities,North America,Mexico,False,False,None,32,2023-08-22
+V00480,Mendez-Robinson,IT Services,Europe,Netherlands,True,False,None,25,2018-10-20
+V00481,Gibson PLC,MRO,North America,USA,False,False,Women-Owned,21,2020-03-29
+V00482,"Dunn, Ruiz and Medina",MRO,Asia Pacific,Singapore,True,True,Veteran-Owned,44,2021-12-25
+V00483,Gill Ltd,IT Services,Latin America,Brazil,True,False,None,19,2022-07-11
+V00484,Fox PLC,IT Services,Asia Pacific,Japan,False,False,Minority-Owned,42,2022-03-22
+V00485,Stark Inc,Marketing,Asia Pacific,Japan,False,False,None,31,2018-05-16
+V00486,"Leach, Harris and Herrera",IT Services,North America,USA,False,False,None,8,2018-12-27
+V00487,"Ramos, Frazier and Love",IT Services,Asia Pacific,India,False,False,None,18,2020-12-06
+V00488,"Griffin, Brown and Anderson",IT Services,Asia Pacific,Australia,False,False,None,28,2020-06-28
+V00489,"Brown, Ford and Roman",IT Services,Europe,France,True,False,None,19,2022-05-03
+V00490,Scott-Smith,Marketing,Europe,Germany,False,False,Veteran-Owned,25,2019-04-23
+V00491,Williams LLC,Raw Materials,North America,Canada,False,False,None,26,2022-03-14
+V00492,"Mcknight, Michael and Jones",IT Services,Europe,UK,False,False,None,18,2023-08-07
+V00493,Mitchell and Sons,Facilities,North America,Mexico,False,True,None,12,2022-08-12
+V00494,"Good, Brewer and Fisher",Office Supplies,Europe,Netherlands,True,False,Minority-Owned,35,2023-12-15
+V00495,West-Stark,Marketing,North America,USA,True,False,Women-Owned,1,2020-04-06
+V00496,Vega Ltd,Raw Materials,Latin America,Chile,False,False,None,22,2023-03-31
+V00497,Valdez LLC,IT Services,Europe,France,False,True,None,36,2018-09-17
+V00498,"Long, Anderson and Irwin",Logistics,Europe,France,False,False,None,47,2023-01-03
+V00499,Good Group,IT Services,Latin America,Brazil,False,False,None,23,2022-01-14
+V00500,"Coleman, Gray and Hall",Professional Services,North America,Canada,False,False,Minority-Owned,60,2020-10-05
