@@ -45,3 +45,73 @@ models:
         description: "Spend category"
         tests:
           - not_null
+
+  - name: dim_vendors
+    description: "Vendor dimension. One row per vendor with attributes + pre-computed lifetime activity metrics and contract summary."
+    columns:
+      - name: vendor_id
+        description: "Primary key"
+        tests:
+          - unique
+          - not_null
+      - name: vendor_activity_status
+        description: "Active / Dormant / Inactive based on recency of POs"
+        tests:
+          - not_null
+          - accepted_values:
+              arguments:
+                values: ['Active', 'Dormant', 'Inactive']
+      - name: risk_tier
+        description: "Low / Medium / High risk tier"
+        tests:
+          - not_null
+          - accepted_values:
+              arguments:
+                values: ['Low', 'Medium', 'High']
+
+  - name: fct_savings
+    description: "Contract-level savings mart. Compares estimated vs realized savings and buckets contracts by realization performance."
+    columns:
+      - name: contract_id
+        description: "Primary key - one row per contract"
+        tests:
+          - unique
+          - not_null
+      - name: realization_tier
+        description: "Bucket: Unused Contract / Significant Shortfall / Underperforming / On Track"
+        tests:
+          - not_null
+          - accepted_values:
+              arguments:
+                values: ['Unused Contract', 'Significant Shortfall', 'Underperforming', 'On Track']
+
+  - name: fct_process_kpis
+    description: "Monthly × category rollup of process metrics: cycle time, DPO, 3-way match rate, on-time delivery/payment rates."
+    columns:
+      - name: month
+        description: "Month bucket (first day of month)"
+        tests:
+          - not_null
+      - name: category
+        description: "Spend category"
+        tests:
+          - not_null
+
+  - name: fct_spend_trend
+    description: "Monthly spend trend by category and spend type with YoY comparison. Powers time-series charts."
+    columns:
+      - name: month
+        description: "Month bucket (first day of month)"
+        tests:
+          - not_null
+      - name: category
+        description: "Spend category"
+        tests:
+          - not_null
+      - name: spend_type
+        description: "Direct or Indirect"
+        tests:
+          - not_null
+          - accepted_values:
+              arguments:
+                values: ['Direct', 'Indirect']
