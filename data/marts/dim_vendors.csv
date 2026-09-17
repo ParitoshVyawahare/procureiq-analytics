@@ -1,0 +1,501 @@
+vendor_id,vendor_name,category,region,country,diversity_classification,is_preferred,is_strategic,risk_score,risk_tier,onboarded_date,vendor_tenure_years,lifetime_po_count,lifetime_spend,first_po_date,last_po_date,days_since_last_po,total_contracts,active_contracts,latest_contract_end_date,vendor_activity_status,has_active_contract
+V00001,"Rodriguez, Figueroa and Sanchez",Logistics,North America,Mexico,,False,False,35,Low,2018-11-02,8,10,225082.31,2024-07-08,2025-10-21,330.0,2,2,2028-04-12,Dormant,True
+V00002,Rhodes PLC,Logistics,North America,Mexico,,True,False,24,Low,2018-07-10,8,1,18533.6,2024-04-02,2024-04-02,897.0,0,0,,Dormant,False
+V00003,Johnson-Davis,Raw Materials,North America,Mexico,,False,False,41,Medium,2019-05-25,7,10,153768.1,2024-05-18,2025-12-28,262.0,2,0,2026-03-13,Dormant,False
+V00004,"Johnson, Gonzalez and Santos",Professional Services,Asia Pacific,China,,False,False,15,Low,2021-04-08,5,12,324289.02,2024-02-14,2025-12-24,266.0,2,1,2027-05-10,Dormant,True
+V00005,Cole LLC,Professional Services,Europe,France,,False,False,55,Medium,2022-11-08,4,9,275312.26,2024-02-28,2025-11-20,300.0,1,0,2025-01-26,Dormant,False
+V00006,Blake and Sons,Professional Services,Asia Pacific,China,,False,False,11,Low,2022-03-09,4,14,293953.84,2024-02-24,2025-12-27,263.0,3,2,2027-09-16,Dormant,True
+V00007,Ramirez-Lewis,Professional Services,Asia Pacific,Australia,Women-Owned,False,False,50,Medium,2022-07-31,4,19,467511.01,2024-01-03,2025-12-27,263.0,3,0,2025-12-23,Dormant,False
+V00008,Davis Inc,IT Services,Europe,France,Small Business,False,False,17,Low,2020-02-26,6,12,363232.08,2024-02-22,2025-12-30,260.0,2,1,2027-10-31,Dormant,True
+V00009,Munoz-Roman,Professional Services,Latin America,Argentina,Minority-Owned,False,False,19,Low,2022-05-18,4,1,3553.51,2024-10-25,2024-10-25,691.0,0,0,,Dormant,False
+V00010,"Martinez, Nielsen and Miller",Logistics,North America,Mexico,,False,False,37,Low,2019-10-05,7,11,235341.99,2024-02-09,2025-12-05,285.0,3,2,2027-11-18,Dormant,True
+V00011,"Montgomery, Hensley and Ray",Raw Materials,Asia Pacific,Australia,,False,False,54,Medium,2022-03-24,4,9,103856.04,2024-03-12,2025-12-02,288.0,2,1,2027-01-20,Dormant,True
+V00012,Stanley LLC,IT Services,North America,Canada,,True,False,8,Low,2023-11-28,3,12,344131.04,2024-03-18,2025-11-12,308.0,2,1,2026-10-03,Dormant,True
+V00013,Delacruz Group,Raw Materials,Asia Pacific,India,,False,False,35,Low,2019-09-01,7,17,199368.02,2024-01-15,2025-12-26,264.0,3,1,2027-06-24,Dormant,True
+V00014,"Flowers, Martin and Kelly",Raw Materials,Asia Pacific,India,,False,False,27,Low,2022-01-07,4,0,0.0,,,,0,0,,Inactive,False
+V00015,"Zuniga, Wong and Lynch",Raw Materials,Latin America,Chile,,False,False,13,Low,2019-01-10,7,3,47211.77,2024-12-16,2025-12-25,265.0,0,0,,Dormant,False
+V00016,"Sanchez, Ford and Nelson",IT Services,North America,USA,,False,False,35,Low,2023-07-20,3,8,116194.69,2024-02-24,2025-10-25,326.0,2,1,2027-03-09,Dormant,True
+V00017,"Hawkins, Cohen and Cameron",Raw Materials,Latin America,Chile,,False,False,13,Low,2022-08-27,4,14,160550.35,2024-01-08,2025-12-24,266.0,2,0,2026-09-08,Dormant,False
+V00018,Underwood LLC,Raw Materials,North America,Mexico,,False,False,32,Low,2020-05-28,6,11,130093.25,2024-05-28,2025-11-15,305.0,3,1,2028-05-08,Dormant,True
+V00019,Clark PLC,Professional Services,Asia Pacific,China,,False,True,16,Low,2023-04-04,3,15,549063.74,2024-01-23,2025-12-17,273.0,1,0,2024-07-04,Dormant,False
+V00020,Lewis-Porter,MRO,Asia Pacific,Australia,,False,False,20,Low,2023-04-22,3,10,20559.54,2024-03-21,2025-11-24,296.0,1,0,2025-10-28,Dormant,False
+V00021,"Ellis, Baker and Wright",Logistics,Europe,UK,,False,False,26,Low,2021-05-14,5,1,8364.65,2024-06-21,2024-06-21,817.0,0,0,,Dormant,False
+V00022,Burgess-Patterson,Facilities,North America,Mexico,,True,False,39,Low,2021-07-01,5,2,21975.48,2025-08-16,2025-12-02,288.0,0,0,,Dormant,False
+V00023,Robinson-Bright,Capital Equipment,Asia Pacific,India,,False,False,15,Low,2021-01-20,5,7,528013.2,2024-02-26,2025-11-07,313.0,2,0,2025-10-19,Dormant,False
+V00024,Campos Inc,IT Services,Latin America,Brazil,Veteran-Owned,False,False,30,Low,2018-12-01,8,9,188223.29,2024-01-17,2025-10-16,335.0,2,1,2027-02-25,Dormant,True
+V00025,Conner Group,Logistics,Europe,France,,False,False,20,Low,2021-07-30,5,11,107374.3,2024-06-20,2025-12-13,277.0,2,0,2024-12-20,Dormant,False
+V00026,James-Ferrell,Facilities,Europe,France,,False,False,18,Low,2021-03-04,5,11,52351.34,2024-02-28,2025-12-29,261.0,1,1,2027-01-17,Dormant,True
+V00027,"Valencia, Smith and Le",Capital Equipment,Latin America,Brazil,,True,True,36,Low,2022-02-01,4,6,355029.77,2024-04-20,2025-11-09,311.0,3,1,2026-12-28,Dormant,True
+V00028,"Potter, Mack and Peterson",Raw Materials,Europe,Germany,,False,False,20,Low,2019-10-05,7,6,61039.42,2024-03-24,2025-09-20,361.0,1,0,2024-06-06,Dormant,False
+V00029,Chavez Ltd,Capital Equipment,Asia Pacific,China,,False,False,18,Low,2023-04-03,3,7,851125.8,2024-01-21,2025-12-21,269.0,1,0,2025-11-08,Dormant,False
+V00030,Stanton-Gill,Raw Materials,Latin America,Brazil,Minority-Owned,False,False,28,Low,2021-01-16,5,14,166093.74,2024-02-19,2025-11-26,294.0,3,2,2027-08-16,Dormant,True
+V00031,Harrell LLC,IT Services,Latin America,Chile,,False,False,10,Low,2023-01-18,3,9,351343.51,2024-05-19,2025-11-16,304.0,1,0,2025-04-19,Dormant,False
+V00032,"Lynch, Hernandez and Farmer",Logistics,North America,USA,,False,False,20,Low,2021-03-27,5,14,151857.3,2024-04-16,2025-12-09,281.0,1,0,2024-12-08,Dormant,False
+V00033,"Sellers, George and Burns",Professional Services,Europe,Italy,,False,False,30,Low,2018-09-02,8,10,218943.37,2024-06-10,2025-12-08,282.0,1,0,2026-08-04,Dormant,False
+V00034,Koch-Decker,Professional Services,North America,Canada,Minority-Owned,False,True,4,Low,2019-11-05,7,17,352359.29,2024-03-31,2025-10-22,329.0,1,0,2026-06-22,Dormant,False
+V00035,Allen PLC,Logistics,North America,USA,Women-Owned,False,False,12,Low,2023-09-05,3,2,37622.26,2025-01-02,2025-07-20,423.0,0,0,,Dormant,False
+V00036,Dennis Inc,Raw Materials,Europe,Netherlands,Women-Owned,False,True,21,Low,2023-11-12,3,12,190075.18,2024-06-10,2025-11-14,306.0,2,0,2025-02-09,Dormant,False
+V00037,"Cannon, Anderson and Alvarez",Professional Services,Latin America,Chile,,False,False,35,Low,2021-04-19,5,17,421803.25,2024-04-17,2025-11-04,316.0,2,1,2027-02-13,Dormant,True
+V00038,Rose-Obrien,Raw Materials,Latin America,Brazil,,False,True,65,Medium,2023-10-13,3,18,202623.53,2024-01-21,2025-12-20,270.0,2,1,2027-12-16,Dormant,True
+V00039,"Campos, Vaughn and Marquez",MRO,North America,Mexico,,True,False,16,Low,2020-05-23,6,13,73657.16,2024-04-15,2025-12-21,269.0,3,2,2027-07-18,Dormant,True
+V00040,"Santos, Kim and Holmes",Facilities,Europe,Germany,Veteran-Owned,True,False,6,Low,2018-09-22,8,11,60924.97,2024-02-17,2025-12-10,280.0,2,0,2025-06-03,Dormant,False
+V00041,Brown Inc,Raw Materials,Europe,Netherlands,,False,False,7,Low,2021-07-12,5,4,53771.1,2024-12-06,2025-11-07,313.0,0,0,,Dormant,False
+V00042,Chapman Inc,Raw Materials,North America,Canada,,False,False,17,Low,2018-06-05,8,12,287942.74,2024-02-14,2025-12-31,259.0,2,0,2024-11-15,Dormant,False
+V00043,"Brown, Jones and Johnson",Professional Services,Asia Pacific,India,,True,False,54,Medium,2019-12-25,7,11,353697.52,2024-03-14,2025-11-11,309.0,2,0,2026-09-08,Dormant,False
+V00044,"Young, Caldwell and Lewis",Raw Materials,North America,USA,,False,False,6,Low,2018-10-17,8,2,19750.94,2024-09-06,2024-10-17,699.0,0,0,,Dormant,False
+V00045,"Johnston, Sanchez and Kennedy",IT Services,Europe,Italy,,False,False,23,Low,2020-06-10,6,12,242397.29,2024-05-08,2025-12-19,271.0,1,0,2026-03-09,Dormant,False
+V00046,Davis Group,Capital Equipment,Asia Pacific,Japan,,False,False,31,Low,2020-02-15,6,5,370363.58,2024-07-11,2025-12-04,286.0,2,0,2025-05-12,Dormant,False
+V00047,Owens-Daniel,Logistics,North America,Mexico,Minority-Owned,False,False,15,Low,2022-01-14,4,7,82309.63,2024-03-04,2025-10-19,332.0,2,1,2027-05-09,Dormant,True
+V00048,"Garcia, Powell and Morgan",Facilities,Europe,France,,True,False,38,Low,2023-03-03,3,6,34984.11,2024-04-03,2025-12-21,269.0,2,0,2025-08-07,Dormant,False
+V00049,Lee PLC,Professional Services,Europe,France,,False,False,48,Medium,2020-09-09,6,3,59116.38,2024-12-07,2025-06-14,459.0,0,0,,Dormant,False
+V00050,White-Ford,Raw Materials,North America,USA,,False,True,9,Low,2023-03-31,3,3,40369.76,2024-12-15,2025-10-29,322.0,0,0,,Dormant,False
+V00051,Ramos PLC,Professional Services,Europe,France,,False,False,36,Low,2018-08-03,8,5,209800.5,2024-08-18,2025-11-06,314.0,0,0,,Dormant,False
+V00052,"Kidd, Huff and Novak",Raw Materials,North America,USA,Women-Owned,False,False,29,Low,2023-07-22,3,11,161071.95,2024-05-12,2025-09-28,353.0,1,0,2024-12-14,Dormant,False
+V00053,Martin Group,IT Services,Asia Pacific,Australia,,False,True,22,Low,2020-11-20,6,5,142939.04,2024-04-21,2025-09-24,357.0,0,0,,Dormant,False
+V00054,Barrera-Martin,Professional Services,North America,Canada,,False,False,16,Low,2018-01-05,8,4,52970.45,2024-03-01,2025-10-12,339.0,0,0,,Dormant,False
+V00055,Baker-Bowers,Marketing,Latin America,Argentina,,False,False,46,Medium,2020-09-23,6,1,968.75,2025-10-25,2025-10-25,326.0,0,0,,Dormant,False
+V00056,Horton-Cross,IT Services,Europe,Netherlands,,False,False,9,Low,2022-09-12,4,12,222556.07,2024-03-23,2025-12-14,276.0,2,2,2026-11-24,Dormant,True
+V00057,"Higgins, Moore and Phillips",Facilities,Europe,France,,False,False,17,Low,2023-10-23,3,13,250983.85,2024-01-17,2025-12-28,262.0,2,0,2026-04-01,Dormant,False
+V00058,"Fitzgerald, Brown and Edwards",IT Services,Latin America,Brazil,,False,False,34,Low,2018-04-20,8,6,110075.22,2024-08-03,2025-10-10,341.0,2,0,2026-03-07,Dormant,False
+V00059,Shaw-Farrell,Marketing,Europe,UK,,False,False,27,Low,2018-12-11,8,1,1093.0,2025-07-21,2025-07-21,422.0,0,0,,Dormant,False
+V00060,"Miller, Lopez and Larson",Capital Equipment,Asia Pacific,Japan,,False,False,44,Medium,2022-01-18,4,6,490831.76,2024-08-21,2025-10-29,322.0,3,0,2026-06-28,Dormant,False
+V00061,Powell PLC,Raw Materials,North America,USA,Women-Owned,False,False,13,Low,2019-06-24,7,8,129060.67,2024-01-24,2025-07-26,417.0,1,0,2024-05-03,Dormant,False
+V00062,"Williams, Miller and Sandoval",Office Supplies,North America,USA,,False,False,40,Medium,2021-05-22,5,18,85246.42,2024-03-06,2025-12-13,277.0,2,1,2026-12-24,Dormant,True
+V00063,Donovan-Harris,Raw Materials,North America,Canada,Women-Owned,False,True,32,Low,2022-04-18,4,6,192380.44,2024-10-14,2025-10-18,333.0,0,0,,Dormant,False
+V00064,Baker and Sons,Raw Materials,Europe,France,,False,False,29,Low,2022-01-11,4,10,117657.98,2024-01-21,2025-10-03,348.0,3,1,2027-01-03,Dormant,True
+V00065,Bryant-Hickman,Logistics,North America,Mexico,Women-Owned,False,False,11,Low,2023-08-12,3,2,40276.83,2024-04-14,2025-03-08,557.0,0,0,,Dormant,False
+V00066,Ellis PLC,Professional Services,Asia Pacific,Australia,,False,False,34,Low,2023-12-22,3,20,575725.64,2024-01-28,2025-12-30,260.0,1,1,2026-11-24,Dormant,True
+V00067,Medina PLC,Logistics,Europe,Italy,,False,False,16,Low,2019-08-04,7,9,129250.59,2024-03-21,2025-10-20,331.0,2,0,2026-05-22,Dormant,False
+V00068,Ibarra-Suarez,Professional Services,Europe,Netherlands,Minority-Owned,False,False,80,High,2020-03-20,6,15,348351.33,2024-04-02,2025-12-16,274.0,1,0,2024-02-03,Dormant,False
+V00069,Kim PLC,Raw Materials,Europe,Italy,,False,False,13,Low,2022-03-21,4,17,170873.28,2024-01-28,2025-12-23,267.0,2,0,2025-08-10,Dormant,False
+V00070,"Riggs, Roman and Rice",IT Services,North America,Canada,,False,False,12,Low,2022-01-02,4,12,565643.89,2024-02-21,2025-12-27,263.0,3,0,2025-05-17,Dormant,False
+V00071,"Evans, Alvarado and Mcmillan",Marketing,Europe,France,,False,True,33,Low,2018-10-22,8,21,69400.32,2024-01-24,2025-12-15,275.0,2,1,2026-12-09,Dormant,True
+V00072,Preston Ltd,Professional Services,Latin America,Argentina,Minority-Owned,True,False,3,Low,2021-04-26,5,0,0.0,,,,0,0,,Inactive,False
+V00073,Campbell-Clark,Logistics,Europe,Netherlands,,False,False,15,Low,2020-01-21,6,6,116796.74,2024-10-21,2025-09-29,352.0,2,1,2027-08-13,Dormant,True
+V00074,"Walters, Baker and Freeman",IT Services,North America,Canada,,False,False,26,Low,2023-06-06,3,8,242557.01,2024-05-02,2025-12-14,276.0,2,0,2025-11-28,Dormant,False
+V00075,Davis Group,Raw Materials,Europe,Germany,,False,False,24,Low,2022-12-22,4,12,136038.69,2024-01-15,2025-12-08,282.0,2,1,2027-10-27,Dormant,True
+V00076,Smith and Sons,Office Supplies,Asia Pacific,Singapore,,False,False,6,Low,2021-10-27,5,14,112413.48,2024-03-23,2025-12-25,265.0,2,0,2025-01-04,Dormant,False
+V00077,Martin-Ramos,Marketing,Latin America,Brazil,,False,False,45,Medium,2022-03-26,4,14,86933.3,2024-03-07,2025-10-24,327.0,2,2,2027-08-09,Dormant,True
+V00078,"Smith, Jones and Ware",Professional Services,Asia Pacific,Australia,,False,False,54,Medium,2023-06-03,3,16,383763.03,2024-02-16,2025-11-08,312.0,2,1,2026-11-11,Dormant,True
+V00079,"Johnson, Wood and Tran",MRO,Europe,France,,False,True,26,Low,2020-07-30,6,16,59026.95,2024-02-04,2025-10-02,349.0,2,0,2026-02-26,Dormant,False
+V00080,Parker Inc,IT Services,Latin America,Argentina,,False,False,6,Low,2023-05-23,3,10,487925.75,2024-02-22,2025-12-13,277.0,1,0,2024-06-27,Dormant,False
+V00081,Fleming Ltd,Professional Services,Latin America,Chile,,False,False,4,Low,2018-08-14,8,2,23335.9,2025-04-18,2025-10-01,350.0,0,0,,Dormant,False
+V00082,"Henson, Russell and Oliver",MRO,North America,Mexico,,True,False,12,Low,2018-12-05,8,17,84787.04,2024-01-31,2025-12-27,263.0,3,1,2026-09-20,Dormant,True
+V00083,Hancock and Sons,MRO,Latin America,Argentina,,False,False,32,Low,2023-04-15,3,19,97492.56,2024-05-14,2025-12-29,261.0,1,1,2027-01-09,Dormant,True
+V00084,White LLC,Professional Services,Europe,France,,True,False,11,Low,2022-09-10,4,17,400163.28,2024-03-21,2025-12-22,268.0,2,1,2026-09-20,Dormant,True
+V00085,Pham-Shields,Logistics,Latin America,Argentina,,False,False,10,Low,2022-11-11,4,10,191576.43,2024-04-20,2025-12-12,278.0,2,0,2026-06-08,Dormant,False
+V00086,Moore-Haynes,Logistics,North America,Canada,,False,True,32,Low,2020-04-17,6,6,92385.58,2024-04-18,2025-01-03,621.0,2,0,2026-08-14,Dormant,False
+V00087,Garrison and Sons,Raw Materials,Latin America,Brazil,,False,False,21,Low,2019-03-14,7,17,239333.79,2024-05-17,2025-12-18,272.0,1,0,2025-08-15,Dormant,False
+V00088,Bailey-Hoover,Professional Services,Latin America,Chile,,False,False,30,Low,2023-03-24,3,3,130045.8,2024-11-07,2025-09-03,378.0,0,0,,Dormant,False
+V00089,Johnson and Sons,IT Services,North America,Mexico,,False,False,40,Medium,2020-05-22,6,1,29041.25,2025-03-02,2025-03-02,563.0,0,0,,Dormant,False
+V00090,Lin-Rasmussen,Logistics,North America,USA,Women-Owned,False,True,18,Low,2019-09-04,7,3,53231.62,2024-01-13,2025-05-24,480.0,1,0,2025-03-21,Dormant,False
+V00091,"Hicks, Frazier and Anthony",IT Services,Europe,Netherlands,,False,False,23,Low,2019-12-27,7,8,491136.94,2024-08-27,2025-12-25,265.0,3,1,2027-01-27,Dormant,True
+V00092,Wilson LLC,Logistics,Asia Pacific,India,,False,False,17,Low,2019-01-27,7,2,12073.82,2025-01-03,2025-10-09,342.0,0,0,,Dormant,False
+V00093,Johnson-Carlson,MRO,Europe,France,,True,False,26,Low,2020-01-28,6,17,68546.51,2024-01-19,2025-10-13,338.0,3,0,2025-07-21,Dormant,False
+V00094,Graham-Joyce,Logistics,Latin America,Chile,Women-Owned,False,False,23,Low,2018-09-11,8,11,149737.68,2024-01-15,2025-10-15,336.0,2,0,2025-07-16,Dormant,False
+V00095,"Lee, Williams and Graham",Marketing,Europe,Germany,,False,False,32,Low,2021-02-12,5,13,101373.17,2024-05-05,2025-12-22,268.0,1,0,2025-03-22,Dormant,False
+V00096,"Mcdaniel, Bentley and Mclaughlin",Marketing,North America,Canada,,False,True,44,Medium,2019-03-08,7,11,70752.48,2024-07-23,2025-12-25,265.0,1,0,2024-09-29,Dormant,False
+V00097,Jones-Beck,Logistics,North America,Canada,Minority-Owned,True,False,38,Low,2019-12-25,7,7,141938.59,2024-02-06,2025-06-13,460.0,2,2,2027-05-08,Dormant,True
+V00098,Alvarado-Martinez,Logistics,Latin America,Argentina,,False,False,9,Low,2023-05-26,3,11,123213.37,2024-01-21,2025-11-22,298.0,1,0,2024-08-13,Dormant,False
+V00099,"Parker, Ortiz and Powell",Logistics,Latin America,Chile,,False,False,20,Low,2019-10-10,7,7,81638.06,2024-04-10,2025-10-20,331.0,2,0,2026-06-20,Dormant,False
+V00100,Lee Ltd,Capital Equipment,North America,Canada,Women-Owned,False,False,16,Low,2023-08-22,3,2,126702.76,2024-07-31,2025-06-15,458.0,0,0,,Dormant,False
+V00101,"Adkins, Thompson and Carroll",Logistics,Latin America,Chile,,False,False,22,Low,2020-06-08,6,6,136411.48,2024-02-13,2025-12-14,276.0,3,1,2026-10-18,Dormant,True
+V00102,Torres and Sons,IT Services,Asia Pacific,Japan,,False,False,47,Medium,2020-07-30,6,7,149084.39,2024-08-07,2025-12-17,273.0,1,0,2026-08-07,Dormant,False
+V00103,"Lawson, Morris and Ramos",Raw Materials,Europe,Germany,,False,False,11,Low,2022-01-19,4,0,0.0,,,,0,0,,Inactive,False
+V00104,"Kennedy, Santana and Flynn",Professional Services,Latin America,Argentina,,False,True,17,Low,2019-01-07,7,18,390979.54,2024-01-09,2025-12-08,282.0,1,1,2027-04-27,Dormant,True
+V00105,Campbell Ltd,Professional Services,Latin America,Argentina,,False,False,24,Low,2021-10-18,5,15,297759.08,2024-01-22,2025-11-06,314.0,1,0,2026-08-07,Dormant,False
+V00106,Davis-Crane,Raw Materials,Asia Pacific,Singapore,Small Business,False,False,19,Low,2019-05-30,7,0,0.0,,,,0,0,,Inactive,False
+V00107,Walker-Gonzalez,Raw Materials,Asia Pacific,Japan,,False,False,15,Low,2018-02-23,8,1,18982.65,2024-11-21,2024-11-21,664.0,0,0,,Dormant,False
+V00108,Riggs PLC,MRO,Europe,UK,,False,False,30,Low,2023-02-04,3,16,68390.81,2024-01-20,2025-11-20,300.0,1,1,2027-06-22,Dormant,True
+V00109,Gibson Ltd,Travel,Asia Pacific,China,Minority-Owned,False,False,26,Low,2021-06-14,5,16,53462.51,2024-01-13,2025-10-12,339.0,3,0,2025-12-13,Dormant,False
+V00110,"Horton, Snyder and Sanchez",Professional Services,Europe,France,,True,False,17,Low,2021-12-07,5,16,567941.52,2024-01-01,2025-10-23,328.0,1,0,2026-08-12,Dormant,False
+V00111,Stafford Inc,Facilities,Latin America,Brazil,Women-Owned,False,False,7,Low,2022-09-01,4,9,37286.61,2024-05-29,2025-12-28,262.0,3,1,2027-02-05,Dormant,True
+V00112,Thompson Ltd,Raw Materials,Europe,Germany,,False,False,36,Low,2021-02-08,5,13,256184.62,2024-02-09,2025-12-19,271.0,2,0,2026-09-03,Dormant,False
+V00113,Grant Inc,IT Services,Latin America,Brazil,,False,False,16,Low,2020-09-26,6,15,461311.55,2024-04-16,2025-12-19,271.0,1,0,2026-07-30,Dormant,False
+V00114,Contreras-Travis,Marketing,Asia Pacific,China,Small Business,True,False,64,Medium,2021-07-28,5,14,42352.6,2024-02-26,2025-11-15,305.0,1,0,2025-06-18,Dormant,False
+V00115,Salazar-Ball,Logistics,Europe,Italy,,False,False,50,Medium,2021-01-10,5,4,42288.85,2024-06-15,2025-10-26,325.0,2,1,2027-05-09,Dormant,True
+V00116,"Griffin, Moore and Hensley",Raw Materials,Latin America,Chile,,True,False,40,Medium,2020-09-12,6,14,209369.43,2024-09-14,2025-10-20,331.0,2,0,2025-10-21,Dormant,False
+V00117,Larsen LLC,IT Services,Europe,UK,,True,False,37,Low,2022-08-05,4,16,457116.0,2024-01-29,2025-12-04,286.0,2,0,2025-09-01,Dormant,False
+V00118,"Washington, Allen and Gonzales",Raw Materials,Europe,Germany,,False,False,48,Medium,2022-04-12,4,12,247680.81,2024-04-20,2025-12-08,282.0,1,1,2027-02-12,Dormant,True
+V00119,Nelson LLC,IT Services,Asia Pacific,Japan,,False,False,45,Medium,2023-05-10,3,10,237278.81,2024-06-13,2025-11-15,305.0,2,1,2027-11-30,Dormant,True
+V00120,Taylor and Sons,Facilities,Europe,Netherlands,,False,False,31,Low,2020-04-18,6,12,134525.9,2024-05-18,2025-12-19,271.0,2,0,2025-03-02,Dormant,False
+V00121,Mccarthy Inc,Professional Services,Europe,Germany,,False,False,34,Low,2020-06-27,6,16,393023.12,2024-01-11,2025-12-14,276.0,2,1,2027-05-13,Dormant,True
+V00122,Daniels-Perry,Marketing,Asia Pacific,Singapore,,False,False,53,Medium,2019-03-29,7,1,1118.64,2024-01-25,2024-01-25,965.0,0,0,,Dormant,False
+V00123,Price-Carrillo,Facilities,Latin America,Chile,,True,False,30,Low,2023-09-03,3,16,68660.22,2024-03-13,2025-12-01,289.0,2,0,2025-01-29,Dormant,False
+V00124,Gates PLC,Professional Services,Asia Pacific,China,,False,False,14,Low,2020-04-13,6,9,363298.9,2024-02-11,2025-12-13,277.0,3,1,2027-06-05,Dormant,True
+V00125,Bender LLC,Raw Materials,North America,Mexico,Minority-Owned,False,False,45,Medium,2022-07-09,4,16,172431.13,2024-01-06,2025-11-22,298.0,1,1,2027-03-05,Dormant,True
+V00126,Medina-Navarro,IT Services,Latin America,Chile,,False,False,35,Low,2022-10-18,4,8,268308.06,2024-03-18,2025-12-13,277.0,1,0,2026-04-29,Dormant,False
+V00127,Freeman LLC,Raw Materials,North America,Canada,,False,False,6,Low,2020-08-12,6,14,199194.89,2024-02-18,2025-12-10,280.0,3,2,2027-02-14,Dormant,True
+V00128,Price Ltd,Capital Equipment,Asia Pacific,Singapore,,False,False,23,Low,2022-01-27,4,9,426324.9,2024-05-13,2025-11-10,310.0,2,1,2027-02-01,Dormant,True
+V00129,Ramsey-Pittman,Marketing,North America,Canada,,False,False,19,Low,2023-07-07,3,0,0.0,,,,0,0,,Inactive,False
+V00130,"Ferguson, Meadows and Vargas",MRO,North America,Mexico,Women-Owned,False,True,51,Medium,2021-12-22,5,11,77848.85,2024-02-16,2025-07-19,424.0,3,1,2028-03-30,Dormant,True
+V00131,Day and Sons,Raw Materials,Latin America,Argentina,,True,False,22,Low,2023-03-14,3,0,0.0,,,,0,0,,Inactive,False
+V00132,Williams Group,IT Services,Asia Pacific,Singapore,Women-Owned,False,True,13,Low,2019-12-18,7,4,230493.7,2024-10-19,2025-10-19,332.0,1,0,2024-11-23,Dormant,False
+V00133,Murphy-Juarez,Logistics,Europe,UK,,True,False,47,Medium,2020-04-10,6,2,81352.84,2024-09-23,2025-11-07,313.0,2,2,2027-08-22,Dormant,True
+V00134,King-Miller,Professional Services,North America,Canada,Women-Owned,False,False,15,Low,2018-02-12,8,19,630701.55,2024-02-27,2025-12-09,281.0,2,2,2027-04-08,Dormant,True
+V00135,"Williams, Crane and Walker",Facilities,Asia Pacific,Australia,,False,False,5,Low,2018-05-31,8,1,697.08,2025-11-12,2025-11-12,308.0,0,0,,Dormant,False
+V00136,"Williams, Johnson and Wright",Raw Materials,Latin America,Argentina,,False,False,34,Low,2023-01-12,3,5,110642.25,2024-11-20,2025-12-21,269.0,0,0,,Dormant,False
+V00137,"Hernandez, Martinez and Caldwell",MRO,Europe,Germany,,False,False,30,Low,2021-05-20,5,9,106920.1,2024-09-05,2025-11-04,316.0,2,0,2026-02-13,Dormant,False
+V00138,Marshall LLC,Facilities,Asia Pacific,China,,False,False,27,Low,2022-08-07,4,17,96666.07,2024-04-16,2025-10-28,323.0,2,0,2026-02-13,Dormant,False
+V00139,Obrien Ltd,Office Supplies,Latin America,Brazil,,False,False,80,High,2022-04-23,4,2,5613.59,2025-04-11,2025-06-30,443.0,0,0,,Dormant,False
+V00140,Oconnell Inc,MRO,Latin America,Chile,Women-Owned,False,False,40,Medium,2021-06-21,5,17,67841.46,2024-01-01,2025-12-17,273.0,1,0,2025-07-14,Dormant,False
+V00141,Johnston-Odonnell,Professional Services,Latin America,Brazil,Minority-Owned,False,False,32,Low,2020-04-01,6,9,489659.54,2024-01-08,2025-11-07,313.0,2,0,2025-08-12,Dormant,False
+V00142,"Gonzalez, Vargas and Rivas",Raw Materials,Latin America,Chile,Small Business,False,False,18,Low,2019-06-16,7,13,164330.51,2024-01-08,2025-12-07,283.0,2,1,2027-04-21,Dormant,True
+V00143,"Barton, Jefferson and Burke",IT Services,North America,USA,,False,False,11,Low,2018-09-23,8,15,391732.92,2024-01-11,2025-10-08,343.0,2,1,2026-09-24,Dormant,True
+V00144,"Patton, Reed and Patterson",Capital Equipment,Latin America,Brazil,,False,False,6,Low,2020-03-22,6,7,262400.5,2024-04-03,2025-11-07,313.0,2,1,2026-11-23,Dormant,True
+V00145,"Holland, Smith and Fisher",Professional Services,Europe,Germany,,False,False,38,Low,2020-12-09,6,21,639511.75,2024-01-08,2025-11-26,294.0,1,0,2026-02-11,Dormant,False
+V00146,Yu-Reid,Logistics,North America,Canada,Minority-Owned,False,False,22,Low,2022-12-20,4,7,71529.06,2024-05-16,2025-10-27,324.0,1,0,2025-12-26,Dormant,False
+V00147,"Hernandez, Thompson and Boyd",Professional Services,Latin America,Argentina,,True,False,17,Low,2021-11-25,5,15,506772.7,2024-01-09,2025-12-26,264.0,1,0,2025-07-19,Dormant,False
+V00148,"Morton, Medina and Webb",Facilities,Europe,Germany,,True,False,6,Low,2020-08-11,6,19,140133.53,2024-01-13,2025-12-09,281.0,1,1,2026-09-19,Dormant,True
+V00149,"Vargas, Morris and Sanchez",Capital Equipment,Latin America,Brazil,,False,True,20,Low,2023-08-09,3,10,414540.22,2024-03-20,2025-09-21,360.0,1,0,2024-10-18,Dormant,False
+V00150,Keith-Sanchez,Marketing,Asia Pacific,Japan,,True,False,35,Low,2020-10-14,6,1,3799.03,2024-11-18,2024-11-18,667.0,0,0,,Dormant,False
+V00151,"Barnett, Rogers and Snyder",Raw Materials,Europe,UK,,False,False,31,Low,2019-12-13,7,10,151398.56,2024-04-18,2025-11-13,307.0,2,1,2028-04-15,Dormant,True
+V00152,Lewis-Salinas,Logistics,Latin America,Argentina,,False,False,13,Low,2020-01-16,6,2,13166.2,2024-04-17,2025-11-19,301.0,0,0,,Dormant,False
+V00153,"Haynes, Hill and Smith",Professional Services,North America,Canada,Women-Owned,False,False,21,Low,2023-09-08,3,9,174314.11,2024-01-02,2025-11-14,306.0,1,0,2025-11-11,Dormant,False
+V00154,Allen Group,Raw Materials,Asia Pacific,Australia,,False,False,13,Low,2020-12-05,6,14,216643.82,2024-01-13,2025-10-27,324.0,3,1,2026-11-11,Dormant,True
+V00155,Vaughn Ltd,Raw Materials,Asia Pacific,India,Small Business,False,False,6,Low,2022-04-08,4,11,136239.76,2024-04-14,2025-12-23,267.0,2,0,2026-04-29,Dormant,False
+V00156,Mcguire-Davis,Professional Services,Asia Pacific,Australia,,False,True,57,Medium,2019-05-01,7,8,343153.01,2024-01-22,2025-09-10,371.0,3,2,2028-05-01,Dormant,True
+V00157,"Sanchez, Beck and Wood",Marketing,Latin America,Chile,,False,False,16,Low,2021-04-27,5,2,23547.4,2024-02-26,2024-05-25,844.0,0,0,,Dormant,False
+V00158,Coleman-Reese,Travel,Latin America,Chile,,False,False,48,Medium,2019-12-26,7,20,116564.19,2024-01-21,2025-12-11,279.0,3,2,2028-06-26,Dormant,True
+V00159,"Chavez, Parker and Hall",IT Services,Europe,Italy,,False,False,22,Low,2022-04-29,4,11,330824.24,2024-04-27,2025-11-17,303.0,3,2,2027-09-05,Dormant,True
+V00160,Wilson-Herrera,Logistics,Europe,Germany,Women-Owned,False,False,37,Low,2022-07-28,4,13,236976.95,2024-07-10,2025-12-22,268.0,2,0,2025-07-13,Dormant,False
+V00161,Lee Ltd,Raw Materials,Asia Pacific,India,,False,False,38,Low,2020-11-26,6,3,22938.33,2024-02-10,2024-11-14,671.0,0,0,,Dormant,False
+V00162,"Lawrence, Wolf and Carlson",IT Services,Europe,Italy,Women-Owned,False,False,29,Low,2023-11-18,3,1,10483.12,2025-10-19,2025-10-19,332.0,0,0,,Dormant,False
+V00163,Phillips LLC,Professional Services,Europe,France,Women-Owned,False,False,35,Low,2019-01-28,7,4,241834.72,2025-01-08,2025-06-30,443.0,0,0,,Dormant,False
+V00164,Erickson and Sons,Professional Services,Asia Pacific,China,,True,False,36,Low,2019-08-24,7,11,272561.74,2024-01-02,2025-11-15,305.0,1,0,2025-03-15,Dormant,False
+V00165,Tran Ltd,Professional Services,Latin America,Argentina,,False,True,75,High,2023-08-30,3,13,297634.65,2024-05-01,2025-12-18,272.0,2,1,2027-06-04,Dormant,True
+V00166,"Oneill, Henry and Salas",Raw Materials,Latin America,Chile,,False,False,5,Low,2021-06-11,5,15,159242.37,2024-03-24,2025-12-13,277.0,1,1,2027-06-27,Dormant,True
+V00167,Mendoza-Peterson,Marketing,Asia Pacific,China,,False,False,15,Low,2023-10-16,3,1,3475.41,2025-09-14,2025-09-14,367.0,0,0,,Dormant,False
+V00168,Everett-Woods,Facilities,Asia Pacific,Australia,,True,False,69,Medium,2022-12-06,4,19,107602.74,2024-02-05,2025-12-25,265.0,2,1,2026-12-15,Dormant,True
+V00169,Vasquez-Ray,Capital Equipment,Asia Pacific,Singapore,,True,True,4,Low,2022-02-12,4,125,8714258.53,2024-01-04,2025-12-25,265.0,2,1,2027-01-10,Dormant,True
+V00170,Hernandez PLC,Office Supplies,North America,USA,,False,False,18,Low,2023-09-10,3,2,15076.63,2024-05-04,2025-12-31,259.0,0,0,,Dormant,False
+V00171,Mcknight Inc,Professional Services,Latin America,Argentina,,False,False,27,Low,2021-05-07,5,23,605075.53,2024-01-07,2025-12-22,268.0,1,0,2025-04-19,Dormant,False
+V00172,Obrien-Gibbs,IT Services,Latin America,Argentina,,False,True,32,Low,2019-05-10,7,14,367971.1,2024-01-03,2025-11-21,299.0,1,0,2025-07-06,Dormant,False
+V00173,"James, Kerr and Evans",Professional Services,Latin America,Chile,Veteran-Owned,False,True,48,Medium,2021-07-12,5,15,414997.89,2024-01-01,2025-11-17,303.0,1,1,2027-10-19,Dormant,True
+V00174,Torres-Oliver,Logistics,Asia Pacific,China,,False,False,31,Low,2021-08-28,5,6,67649.63,2024-01-23,2025-07-16,427.0,2,0,2025-08-20,Dormant,False
+V00175,"Garcia, Farmer and Garrett",Marketing,Latin America,Brazil,,False,False,49,Medium,2019-08-03,7,2,2848.13,2024-09-06,2025-10-26,325.0,0,0,,Dormant,False
+V00176,Moore and Sons,IT Services,Asia Pacific,India,Small Business,False,False,18,Low,2021-04-23,5,7,175949.41,2024-02-02,2025-12-22,268.0,1,0,2025-07-09,Dormant,False
+V00177,Smith Group,Marketing,Europe,Italy,,False,False,85,High,2022-02-18,4,15,121749.71,2024-01-10,2025-12-22,268.0,2,1,2026-11-04,Dormant,True
+V00178,Carter-Hall,IT Services,North America,Canada,Minority-Owned,True,False,43,Medium,2022-03-29,4,11,717519.52,2024-04-09,2025-07-29,414.0,3,1,2026-10-12,Dormant,True
+V00179,"Heath, Jones and Hall",Professional Services,Europe,Germany,,True,True,22,Low,2019-08-03,7,15,383705.85,2024-03-09,2025-10-29,322.0,2,0,2026-07-10,Dormant,False
+V00180,"Lawrence, Lara and Gonzalez",Marketing,Europe,Italy,,False,True,12,Low,2018-09-09,8,19,87369.36,2024-01-01,2025-12-18,272.0,1,0,2025-07-25,Dormant,False
+V00181,Holland LLC,MRO,North America,Mexico,,False,False,56,Medium,2022-12-16,4,19,110914.41,2024-03-06,2025-10-29,322.0,1,1,2027-05-06,Dormant,True
+V00182,Brown LLC,Raw Materials,Latin America,Argentina,,False,False,13,Low,2021-07-27,5,13,148799.24,2024-04-01,2025-11-15,305.0,1,0,2024-03-04,Dormant,False
+V00183,"Morse, Gonzales and Harrison",Capital Equipment,Asia Pacific,Singapore,,True,False,18,Low,2019-10-28,7,9,294162.83,2024-04-09,2025-10-17,334.0,1,0,2024-10-07,Dormant,False
+V00184,Bender-Mason,Marketing,Latin America,Argentina,,False,False,27,Low,2020-12-17,6,16,62896.78,2024-03-12,2025-12-22,268.0,3,0,2026-03-20,Dormant,False
+V00185,George Group,Capital Equipment,Asia Pacific,Australia,,True,False,25,Low,2022-05-28,4,10,713260.55,2025-01-01,2025-12-17,273.0,1,0,2024-05-08,Dormant,False
+V00186,"Wright, Davis and Hayden",Raw Materials,Asia Pacific,Singapore,Small Business,False,False,17,Low,2023-01-05,3,16,203757.13,2024-01-10,2025-12-13,277.0,2,1,2027-04-08,Dormant,True
+V00187,"Matthews, Smith and Hubbard",Logistics,North America,Mexico,,False,False,39,Low,2022-12-04,4,12,256082.36,2024-02-17,2025-12-27,263.0,1,1,2026-11-19,Dormant,True
+V00188,"Williams, Avila and Ruiz",Raw Materials,Europe,Netherlands,,False,False,13,Low,2021-11-27,5,0,0.0,,,,0,0,,Inactive,False
+V00189,White-Richards,Raw Materials,Latin America,Argentina,,False,False,46,Medium,2021-10-22,5,1,24691.99,2024-02-05,2024-02-05,954.0,0,0,,Dormant,False
+V00190,Costa-Harrison,Professional Services,Europe,Netherlands,,False,True,61,Medium,2020-06-13,6,1,2708.18,2024-12-21,2024-12-21,634.0,0,0,,Dormant,False
+V00191,Santiago-Hodge,IT Services,Asia Pacific,India,,False,False,30,Low,2019-12-24,7,2,29686.19,2024-10-19,2025-10-31,320.0,0,0,,Dormant,False
+V00192,"Simpson, Bates and Morales",Professional Services,North America,Canada,,False,False,31,Low,2022-07-24,4,2,274924.08,2025-01-17,2025-08-01,411.0,0,0,,Dormant,False
+V00193,Gibson LLC,Capital Equipment,North America,Canada,,False,False,13,Low,2019-07-07,7,8,352690.67,2024-04-15,2025-12-06,284.0,3,1,2027-12-15,Dormant,True
+V00194,Cordova Group,IT Services,Latin America,Brazil,Minority-Owned,False,False,72,Medium,2023-03-10,3,9,136494.46,2024-03-14,2025-12-19,271.0,2,0,2026-01-01,Dormant,False
+V00195,Sandoval PLC,IT Services,Asia Pacific,Australia,,False,False,11,Low,2020-10-08,6,9,101843.56,2024-03-20,2025-12-19,271.0,2,1,2027-06-24,Dormant,True
+V00196,Lopez LLC,MRO,North America,Mexico,Women-Owned,False,False,28,Low,2021-09-25,5,23,162404.69,2024-03-18,2025-12-18,272.0,1,0,2024-05-20,Dormant,False
+V00197,Garrett-Wolf,IT Services,Asia Pacific,Japan,,False,False,51,Medium,2019-03-22,7,9,149570.34,2024-03-08,2025-08-05,407.0,2,0,2026-01-04,Dormant,False
+V00198,"Anderson, Roberts and Gilmore",Logistics,North America,USA,,False,True,15,Low,2020-11-27,6,6,90645.19,2024-11-09,2025-11-14,306.0,1,1,2026-12-25,Dormant,True
+V00199,Dudley PLC,Raw Materials,Latin America,Chile,,False,False,94,High,2022-10-17,4,9,103038.37,2024-06-09,2025-12-19,271.0,1,0,2026-02-08,Dormant,False
+V00200,"Moore, Pierce and Tran",Professional Services,North America,USA,,False,True,13,Low,2018-07-24,8,19,860811.65,2024-02-14,2025-11-17,303.0,2,1,2027-04-18,Dormant,True
+V00201,Murray Inc,IT Services,Latin America,Argentina,,False,False,38,Low,2021-11-19,5,5,71995.22,2024-05-19,2025-10-02,349.0,2,1,2027-02-03,Dormant,True
+V00202,Jimenez Ltd,IT Services,North America,Canada,,False,False,46,Medium,2019-10-02,7,3,37376.18,2024-01-16,2024-12-06,649.0,0,0,,Dormant,False
+V00203,"Hill, Davenport and Baird",Raw Materials,Asia Pacific,China,,False,True,12,Low,2019-06-18,7,7,91724.04,2024-10-17,2025-10-24,327.0,2,0,2026-01-09,Dormant,False
+V00204,"Thomas, Lee and Greene",IT Services,Europe,UK,,False,False,5,Low,2022-06-23,4,12,210366.18,2024-06-30,2025-09-14,367.0,2,1,2027-06-01,Dormant,True
+V00205,Shields LLC,Raw Materials,Latin America,Brazil,,False,False,1,Low,2022-08-20,4,13,193154.47,2024-07-15,2025-11-30,290.0,1,0,2024-10-12,Dormant,False
+V00206,Morgan-French,Raw Materials,Asia Pacific,China,,False,False,15,Low,2019-08-09,7,0,0.0,,,,0,0,,Inactive,False
+V00207,Campbell LLC,Raw Materials,North America,Canada,,False,False,26,Low,2023-01-09,3,12,174951.17,2024-01-07,2025-11-13,307.0,1,0,2026-07-16,Dormant,False
+V00208,"Duarte, Burns and Hernandez",Professional Services,North America,Canada,,False,False,52,Medium,2021-03-25,5,2,22324.12,2025-10-19,2025-12-27,263.0,0,0,,Dormant,False
+V00209,Cook-Hines,Logistics,Asia Pacific,China,,True,False,30,Low,2020-04-06,6,5,48133.62,2024-05-11,2025-12-10,280.0,1,0,2025-04-11,Dormant,False
+V00210,Kane-Pollard,Professional Services,North America,Canada,Women-Owned,False,False,25,Low,2019-06-07,7,15,401976.22,2024-03-09,2025-12-03,287.0,2,0,2026-07-05,Dormant,False
+V00211,Hall-Rowe,MRO,North America,Mexico,,False,False,40,Medium,2018-04-06,8,13,157807.53,2024-03-19,2025-12-03,287.0,1,0,2026-06-01,Dormant,False
+V00212,"Kennedy, Mcintyre and James",MRO,Asia Pacific,India,,True,False,36,Low,2023-12-05,3,10,26945.99,2024-01-28,2025-12-11,279.0,3,0,2026-05-05,Dormant,False
+V00213,"Pollard, Simpson and Johnson",Logistics,North America,USA,Veteran-Owned,False,False,22,Low,2021-01-05,5,2,41220.32,2025-01-09,2025-04-16,518.0,0,0,,Dormant,False
+V00214,"Rivera, Garcia and Kirk",Raw Materials,Latin America,Argentina,Women-Owned,False,False,9,Low,2018-08-07,8,11,136843.77,2024-06-07,2025-12-14,276.0,2,1,2028-02-10,Dormant,True
+V00215,Smith-Thomas,Logistics,Asia Pacific,India,,False,False,42,Medium,2023-03-23,3,2,14523.09,2025-01-20,2025-05-25,479.0,0,0,,Dormant,False
+V00216,Jones LLC,Marketing,North America,Canada,,False,False,30,Low,2020-01-12,6,12,69851.75,2024-02-19,2025-10-03,348.0,2,1,2026-12-15,Dormant,True
+V00217,"Sanders, Miller and Murphy",IT Services,Asia Pacific,China,,False,True,8,Low,2022-01-16,4,1,10528.8,2024-05-22,2024-05-22,847.0,0,0,,Dormant,False
+V00218,"James, Stewart and Higgins",Raw Materials,Latin America,Chile,,False,False,31,Low,2022-07-22,4,3,41485.77,2024-08-06,2025-06-14,459.0,0,0,,Dormant,False
+V00219,"Johnson, Jones and Welch",IT Services,Europe,France,,False,False,17,Low,2023-07-10,3,10,381482.23,2024-01-06,2025-11-20,300.0,2,0,2025-07-15,Dormant,False
+V00220,Francis Group,Raw Materials,Asia Pacific,China,,False,False,52,Medium,2023-11-13,3,8,161226.87,2024-05-09,2025-12-28,262.0,2,1,2027-06-05,Dormant,True
+V00221,"Padilla, Garcia and Jackson",Raw Materials,Latin America,Argentina,,False,False,14,Low,2019-10-18,7,14,250426.2,2024-03-13,2025-11-30,290.0,1,0,2025-12-15,Dormant,False
+V00222,Williams Inc,Professional Services,Latin America,Chile,,True,False,43,Medium,2019-10-05,7,20,800148.39,2024-01-19,2025-12-07,283.0,3,1,2026-11-30,Dormant,True
+V00223,Jordan-Sanchez,Professional Services,Asia Pacific,China,,False,False,56,Medium,2020-06-21,6,17,413729.1,2024-10-23,2025-12-20,270.0,1,1,2027-01-11,Dormant,True
+V00224,"Sparks, Jackson and Miller",Capital Equipment,Europe,France,,False,False,20,Low,2023-03-23,3,7,231286.07,2024-03-02,2025-10-30,321.0,1,0,2024-06-02,Dormant,False
+V00225,"Vega, Jimenez and Aguilar",Professional Services,Latin America,Brazil,,False,False,26,Low,2019-05-24,7,12,555927.15,2024-03-30,2025-12-04,286.0,1,1,2027-12-19,Dormant,True
+V00226,"King, Scott and Smith",Professional Services,Asia Pacific,India,,False,False,34,Low,2022-10-29,4,10,449071.91,2024-03-04,2025-12-07,283.0,2,1,2027-01-23,Dormant,True
+V00227,Byrd-Moore,Logistics,North America,Mexico,,False,True,30,Low,2020-08-25,6,6,107817.3,2024-03-03,2025-05-07,497.0,1,1,2026-09-16,Dormant,True
+V00228,Huerta-Evans,Professional Services,Europe,France,Women-Owned,False,False,7,Low,2023-10-08,3,9,356872.97,2024-05-29,2025-10-23,328.0,2,0,2026-07-13,Dormant,False
+V00229,"Wright, Bruce and Gonzalez",IT Services,North America,Canada,Minority-Owned,True,False,20,Low,2020-04-22,6,10,423170.78,2024-01-10,2025-10-18,333.0,1,0,2024-03-19,Dormant,False
+V00230,Rodriguez-James,Marketing,North America,Mexico,,False,False,46,Medium,2020-02-26,6,9,47832.7,2024-05-02,2025-11-20,300.0,2,1,2028-04-20,Dormant,True
+V00231,Haney-Phillips,Professional Services,Europe,UK,Minority-Owned,False,False,22,Low,2023-11-12,3,9,256664.82,2024-08-15,2025-12-02,288.0,1,0,2025-03-07,Dormant,False
+V00232,"Foster, Smith and Grimes",IT Services,Latin America,Brazil,,False,False,56,Medium,2022-09-01,4,10,223425.88,2024-04-06,2025-09-07,374.0,1,0,2024-03-10,Dormant,False
+V00233,Lozano Ltd,Raw Materials,Asia Pacific,Singapore,,False,False,45,Medium,2020-12-23,6,17,291783.25,2024-04-14,2025-11-27,293.0,2,1,2028-01-21,Dormant,True
+V00234,Parsons-Hall,Marketing,Europe,France,,False,False,22,Low,2022-10-23,4,25,131033.11,2024-01-08,2025-12-19,271.0,1,0,2026-03-02,Dormant,False
+V00235,Fields PLC,MRO,Latin America,Argentina,,False,False,19,Low,2019-07-03,7,27,187278.03,2024-01-09,2025-12-01,289.0,2,0,2026-07-27,Dormant,False
+V00236,"Saunders, Becker and Taylor",Marketing,Europe,France,,False,False,11,Low,2018-08-01,8,3,23498.77,2024-09-27,2025-12-18,272.0,0,0,,Dormant,False
+V00237,"Lucas, Parker and Alexander",Facilities,North America,Canada,,False,False,11,Low,2021-06-23,5,3,22359.93,2024-11-17,2025-07-31,412.0,0,0,,Dormant,False
+V00238,"Anderson, Browning and Murphy",Raw Materials,Latin America,Brazil,Women-Owned,False,False,22,Low,2020-06-28,6,9,253314.29,2024-04-17,2025-11-17,303.0,1,0,2025-05-31,Dormant,False
+V00239,Anderson PLC,Professional Services,North America,Canada,,False,False,17,Low,2023-04-04,3,17,448530.07,2024-01-05,2025-12-20,270.0,3,2,2027-11-26,Dormant,True
+V00240,Schmidt-Mcintyre,Office Supplies,Asia Pacific,India,,False,False,23,Low,2022-12-24,4,17,155365.89,2024-01-14,2025-11-09,311.0,2,0,2025-01-22,Dormant,False
+V00241,Sloan-Raymond,Logistics,Europe,UK,,False,False,43,Medium,2023-10-20,3,8,156043.41,2024-04-01,2025-08-17,395.0,3,0,2026-03-07,Dormant,False
+V00242,Francis-Morgan,Marketing,Latin America,Chile,,False,True,30,Low,2018-09-10,8,6,13221.49,2024-05-12,2025-11-10,310.0,0,0,,Dormant,False
+V00243,Taylor and Sons,IT Services,Europe,Italy,Women-Owned,False,False,41,Medium,2023-02-27,3,9,197228.69,2024-01-01,2025-10-06,345.0,2,0,2026-07-23,Dormant,False
+V00244,"Craig, Sanders and Singleton",MRO,Europe,France,,False,False,23,Low,2021-05-05,5,3,15671.9,2024-03-17,2025-11-26,294.0,0,0,,Dormant,False
+V00245,Gibbs Inc,Logistics,North America,USA,Minority-Owned,False,False,30,Low,2019-08-03,7,9,141006.24,2024-04-26,2025-12-31,259.0,1,0,2025-10-03,Dormant,False
+V00246,Gibson Ltd,Logistics,Europe,UK,,True,False,22,Low,2022-06-29,4,8,133527.04,2024-07-10,2025-10-31,320.0,1,0,2025-05-17,Dormant,False
+V00247,Richards-Carson,Raw Materials,Europe,Germany,,False,False,22,Low,2023-08-22,3,14,184634.75,2024-06-02,2025-10-29,322.0,1,0,2025-07-10,Dormant,False
+V00248,Leonard Group,Raw Materials,North America,Canada,Women-Owned,True,False,60,Medium,2018-02-24,8,14,154382.38,2024-01-06,2025-06-22,451.0,2,0,2025-05-28,Dormant,False
+V00249,"Murphy, Bishop and Holland",Professional Services,North America,Canada,Minority-Owned,False,False,82,High,2021-10-23,5,12,299809.28,2024-02-24,2025-11-18,302.0,2,2,2027-05-30,Dormant,True
+V00250,Blankenship-Turner,Logistics,Asia Pacific,India,,False,False,33,Low,2020-06-13,6,7,149403.48,2024-05-08,2025-11-04,316.0,3,1,2027-10-02,Dormant,True
+V00251,Williams Inc,IT Services,Latin America,Argentina,,False,False,15,Low,2019-10-29,7,13,215505.26,2024-01-07,2025-12-28,262.0,2,0,2026-03-29,Dormant,False
+V00252,Wilson-Young,MRO,Latin America,Brazil,,True,False,58,Medium,2021-03-23,5,6,53401.71,2024-03-31,2025-10-07,344.0,0,0,,Dormant,False
+V00253,Chavez-Santiago,IT Services,Asia Pacific,Australia,,False,False,13,Low,2022-06-16,4,6,106937.61,2024-09-12,2025-11-28,292.0,0,0,,Dormant,False
+V00254,"Barnes, Newton and Moore",IT Services,Europe,France,,False,False,14,Low,2020-06-27,6,12,194575.98,2024-03-18,2025-12-14,276.0,2,1,2027-05-19,Dormant,True
+V00255,Bass PLC,Professional Services,North America,Canada,,False,False,46,Medium,2020-06-12,6,16,479675.14,2024-02-07,2025-12-08,282.0,1,0,2025-04-22,Dormant,False
+V00256,Johnson-Wood,Facilities,Asia Pacific,India,,False,False,34,Low,2020-08-29,6,9,50354.55,2024-06-30,2025-12-02,288.0,3,1,2026-11-08,Dormant,True
+V00257,Foley Inc,Raw Materials,North America,Mexico,,False,False,22,Low,2023-11-19,3,9,86689.58,2024-05-24,2025-12-11,279.0,2,1,2026-12-21,Dormant,True
+V00258,Stephens-Levine,IT Services,Asia Pacific,Japan,,False,False,75,High,2020-02-25,6,2,95320.86,2024-06-05,2024-09-24,722.0,0,0,,Dormant,False
+V00259,Hill-Donaldson,Raw Materials,Latin America,Brazil,,False,True,25,Low,2023-09-10,3,11,94635.01,2024-01-01,2025-08-24,388.0,2,1,2027-05-31,Dormant,True
+V00260,Davis-Lewis,Capital Equipment,Asia Pacific,Australia,Small Business,False,False,19,Low,2021-11-01,5,1,22546.63,2025-10-16,2025-10-16,335.0,0,0,,Dormant,False
+V00261,Williams LLC,Facilities,North America,Mexico,,False,False,21,Low,2019-06-18,7,12,160825.17,2024-04-14,2025-11-07,313.0,1,0,2025-06-19,Dormant,False
+V00262,Buchanan and Sons,Logistics,North America,USA,Minority-Owned,False,False,54,Medium,2018-05-31,8,4,105234.54,2024-06-27,2025-12-18,272.0,1,0,2025-12-10,Dormant,False
+V00263,"Clark, Robinson and Kane",IT Services,Europe,France,,False,True,43,Medium,2019-12-21,7,7,130238.36,2024-03-21,2025-12-30,260.0,2,0,2026-05-19,Dormant,False
+V00264,Kramer PLC,IT Services,Latin America,Chile,,False,False,33,Low,2018-01-07,8,3,120936.31,2025-03-25,2025-12-14,276.0,0,0,,Dormant,False
+V00265,Huerta PLC,Raw Materials,Latin America,Chile,,False,False,28,Low,2019-07-03,7,1,8511.92,2024-04-13,2024-04-13,886.0,0,0,,Dormant,False
+V00266,Rodriguez Inc,MRO,Latin America,Argentina,,False,False,20,Low,2018-10-16,8,16,49284.76,2024-03-03,2025-11-13,307.0,3,1,2026-11-24,Dormant,True
+V00267,Tyler-Young,Professional Services,Latin America,Brazil,Small Business,False,False,19,Low,2019-12-11,7,15,352387.63,2024-06-06,2025-12-23,267.0,1,1,2027-12-15,Dormant,True
+V00268,Baker and Sons,Raw Materials,North America,USA,Minority-Owned,False,False,42,Medium,2022-06-13,4,9,133067.85,2024-03-16,2025-12-07,283.0,3,1,2027-03-20,Dormant,True
+V00269,"Wilson, Brown and West",Raw Materials,North America,Mexico,Veteran-Owned,False,False,9,Low,2020-03-03,6,8,68714.42,2024-05-05,2025-11-24,296.0,3,0,2026-07-28,Dormant,False
+V00270,"Rodriguez, Gordon and Dougherty",MRO,Asia Pacific,Japan,Minority-Owned,False,False,6,Low,2018-04-05,8,0,0.0,,,,0,0,,Inactive,False
+V00271,"Boyd, Ellis and Maynard",Logistics,Asia Pacific,Australia,,False,False,37,Low,2018-05-14,8,2,42471.01,2025-11-30,2025-12-06,284.0,0,0,,Dormant,False
+V00272,Boone-Simmons,Professional Services,Latin America,Brazil,,False,False,18,Low,2018-08-25,8,14,407241.55,2024-02-06,2025-12-19,271.0,1,0,2025-12-04,Dormant,False
+V00273,"Browning, Jones and Miller",Office Supplies,Europe,Italy,Women-Owned,True,False,46,Medium,2021-08-25,5,20,113696.42,2024-08-06,2025-12-13,277.0,1,0,2025-08-10,Dormant,False
+V00274,Martinez PLC,MRO,Latin America,Argentina,,False,False,44,Medium,2021-10-18,5,5,37661.21,2024-02-27,2025-07-05,438.0,0,0,,Dormant,False
+V00275,"Joseph, James and Harper",IT Services,Asia Pacific,China,,False,False,27,Low,2019-10-08,7,11,199291.08,2024-08-01,2025-10-27,324.0,2,2,2026-12-26,Dormant,True
+V00276,"Jacobs, Garcia and Miles",Capital Equipment,Europe,UK,,False,True,44,Medium,2023-02-11,3,8,1204444.99,2024-02-24,2025-11-26,294.0,3,1,2027-02-13,Dormant,True
+V00277,"Rich, Arnold and Glenn",IT Services,Europe,France,,False,False,45,Medium,2020-07-30,6,0,0.0,,,,0,0,,Inactive,False
+V00278,Gutierrez Group,Professional Services,Asia Pacific,China,,False,False,51,Medium,2020-05-23,6,17,392757.75,2024-03-30,2025-10-23,328.0,3,2,2028-05-21,Dormant,True
+V00279,"Davis, Simmons and Ortega",IT Services,Asia Pacific,Australia,,False,False,19,Low,2020-03-30,6,14,404314.5,2024-04-19,2025-11-05,315.0,2,0,2026-08-17,Dormant,False
+V00280,Mcdaniel Group,Facilities,Europe,UK,,False,False,5,Low,2018-05-28,8,2,9511.58,2025-08-27,2025-10-31,320.0,0,0,,Dormant,False
+V00281,Davis Inc,Marketing,North America,USA,,False,False,1,Low,2022-06-19,4,17,130406.19,2024-04-03,2025-12-03,287.0,1,0,2026-09-10,Dormant,False
+V00282,Cain-Hawkins,Professional Services,Europe,Italy,,False,False,44,Medium,2021-07-08,5,18,426931.67,2024-01-25,2025-12-03,287.0,1,1,2028-04-25,Dormant,True
+V00283,"Hoffman, Santiago and Jenkins",Logistics,Asia Pacific,Japan,,False,False,25,Low,2023-03-29,3,4,51740.39,2024-06-26,2025-01-01,623.0,2,0,2026-03-27,Dormant,False
+V00284,Parrish-Griffith,Professional Services,North America,Mexico,,False,False,12,Low,2023-10-22,3,23,573820.07,2024-04-07,2025-12-04,286.0,2,1,2027-08-28,Dormant,True
+V00285,"Edwards, Garcia and Romero",IT Services,Europe,France,Women-Owned,False,False,29,Low,2018-12-05,8,9,395613.52,2024-01-29,2025-12-04,286.0,1,0,2025-06-03,Dormant,False
+V00286,Walker-Rodriguez,Professional Services,Latin America,Brazil,,False,False,24,Low,2023-01-26,3,13,559172.54,2024-01-01,2025-11-12,308.0,1,1,2027-04-26,Dormant,True
+V00287,Wilson-Ramirez,Professional Services,North America,Canada,,True,True,27,Low,2019-05-11,7,13,202292.1,2024-01-10,2025-12-29,261.0,1,0,2025-12-29,Dormant,False
+V00288,Bruce-Villegas,Facilities,Latin America,Brazil,Veteran-Owned,False,False,23,Low,2022-11-28,4,19,140074.36,2024-02-10,2025-12-28,262.0,3,1,2027-12-04,Dormant,True
+V00289,"Leonard, Hawkins and Lynch",Facilities,Asia Pacific,India,,False,False,39,Low,2021-12-11,5,17,115449.88,2024-01-30,2025-12-23,267.0,2,0,2025-07-15,Dormant,False
+V00290,"Adams, White and Park",Raw Materials,Asia Pacific,Singapore,,False,False,83,High,2019-11-08,7,13,273132.35,2024-04-15,2025-12-27,263.0,1,1,2026-11-14,Dormant,True
+V00291,Bell-White,Travel,Europe,Italy,,True,False,24,Low,2018-11-10,8,17,61240.7,2024-03-09,2025-12-23,267.0,2,0,2026-02-03,Dormant,False
+V00292,"Morales, Thomas and Schultz",Capital Equipment,Latin America,Chile,,False,False,16,Low,2018-03-09,8,14,683861.5,2024-02-01,2025-10-26,325.0,1,1,2026-09-30,Dormant,True
+V00293,"Moreno, Bennett and Chavez",Capital Equipment,Asia Pacific,Singapore,,False,False,36,Low,2018-12-11,8,9,724555.05,2024-06-10,2025-12-31,259.0,1,0,2025-12-22,Dormant,False
+V00294,Griffith-Frank,IT Services,Asia Pacific,China,,False,False,15,Low,2021-05-28,5,5,78745.2,2024-01-06,2025-10-20,331.0,0,0,,Dormant,False
+V00295,Ware and Sons,Marketing,North America,USA,Veteran-Owned,False,False,9,Low,2018-12-11,8,13,57140.89,2024-03-15,2025-12-13,277.0,2,1,2026-10-20,Dormant,True
+V00296,"Williams, Miller and Ramos",Professional Services,Asia Pacific,India,,False,False,32,Low,2020-07-17,6,4,287769.11,2024-04-09,2025-09-17,364.0,0,0,,Dormant,False
+V00297,"Ramos, Nelson and Fischer",IT Services,Europe,France,Minority-Owned,False,False,30,Low,2018-09-07,8,7,169974.77,2024-01-24,2025-09-06,375.0,1,0,2026-08-17,Dormant,False
+V00298,Rodriguez-Gregory,Capital Equipment,Europe,France,Women-Owned,False,False,7,Low,2021-07-22,5,11,1347950.87,2024-03-07,2025-12-10,280.0,2,0,2026-05-30,Dormant,False
+V00299,"Estrada, Williams and Foster",Logistics,Asia Pacific,Australia,,False,False,47,Medium,2021-08-05,5,9,103532.66,2024-05-19,2025-09-05,376.0,2,2,2027-02-23,Dormant,True
+V00300,Harris and Sons,MRO,Asia Pacific,Singapore,Minority-Owned,False,False,31,Low,2022-08-08,4,25,140216.27,2024-02-06,2025-11-29,291.0,1,0,2025-01-20,Dormant,False
+V00301,Roberts-Wilson,Travel,Asia Pacific,China,,False,False,20,Low,2020-12-25,6,2,23367.49,2025-06-15,2025-11-06,314.0,0,0,,Dormant,False
+V00302,Thompson-James,Travel,Europe,Germany,,False,False,3,Low,2022-03-22,4,12,86112.44,2024-04-06,2025-10-27,324.0,2,0,2025-09-03,Dormant,False
+V00303,"Hansen, Barnett and Gomez",Logistics,Latin America,Brazil,Minority-Owned,False,False,41,Medium,2020-05-19,6,1,15265.44,2025-01-24,2025-01-24,600.0,1,0,2026-06-27,Dormant,False
+V00304,"Williams, Smith and Morse",MRO,Europe,Germany,,False,False,30,Low,2023-03-04,3,2,9850.74,2025-08-10,2025-12-23,267.0,0,0,,Dormant,False
+V00305,"Patterson, Sullivan and Bowman",IT Services,Latin America,Argentina,,False,False,36,Low,2019-09-27,7,13,517536.7,2024-01-27,2025-12-31,259.0,1,0,2024-01-06,Dormant,False
+V00306,Smith-Nguyen,Raw Materials,Latin America,Argentina,,False,False,31,Low,2022-10-21,4,11,183145.47,2024-02-02,2025-12-11,279.0,1,0,2025-11-02,Dormant,False
+V00307,"Stevens, Norris and Cox",Raw Materials,Asia Pacific,Japan,,False,False,6,Low,2020-08-14,6,2,8661.96,2024-06-04,2024-06-16,822.0,0,0,,Dormant,False
+V00308,Sanchez PLC,Raw Materials,Europe,France,,False,False,21,Low,2020-05-26,6,12,402632.55,2024-10-31,2025-12-22,268.0,2,0,2024-12-07,Dormant,False
+V00309,Foster LLC,Raw Materials,Latin America,Chile,,False,False,42,Medium,2022-06-22,4,2,40227.44,2024-03-09,2025-07-05,438.0,0,0,,Dormant,False
+V00310,Cook and Sons,Professional Services,Latin America,Chile,Minority-Owned,False,False,8,Low,2018-06-17,8,1,19769.06,2025-11-09,2025-11-09,311.0,0,0,,Dormant,False
+V00311,"Wilson, Hicks and Bullock",Professional Services,Asia Pacific,China,,False,False,24,Low,2020-02-05,6,14,265715.93,2024-04-26,2025-12-26,264.0,2,1,2027-10-09,Dormant,True
+V00312,"Mullen, Brewer and Hernandez",Raw Materials,Europe,Italy,,False,False,10,Low,2018-08-14,8,12,156020.9,2024-03-05,2025-12-12,278.0,2,0,2026-02-10,Dormant,False
+V00313,Gonzalez-Morrison,IT Services,Europe,UK,,False,False,39,Low,2022-07-23,4,9,169117.19,2024-01-05,2025-10-03,348.0,3,1,2028-04-15,Dormant,True
+V00314,"Jones, Bean and Burton",Professional Services,North America,Canada,,False,False,25,Low,2020-10-13,6,1,12928.04,2024-02-10,2024-02-10,949.0,0,0,,Dormant,False
+V00315,"Wolf, Cole and Glass",IT Services,Europe,Netherlands,,False,False,38,Low,2021-05-21,5,6,190113.64,2024-03-31,2025-03-02,563.0,3,1,2028-05-16,Dormant,True
+V00316,"Downs, Morris and Maddox",Logistics,Asia Pacific,Japan,,True,False,36,Low,2019-11-24,7,0,0.0,,,,0,0,,Inactive,False
+V00317,Jones-Ramos,Logistics,Europe,Italy,,False,True,58,Medium,2019-10-26,7,9,139773.51,2024-04-30,2025-10-27,324.0,2,1,2027-01-11,Dormant,True
+V00318,Vargas-Bell,Facilities,Latin America,Brazil,Women-Owned,True,False,56,Medium,2018-06-12,8,12,37956.26,2024-02-16,2025-10-01,350.0,2,0,2026-01-15,Dormant,False
+V00319,Hayes-Brown,Marketing,Europe,France,Women-Owned,True,False,8,Low,2022-12-27,4,11,48558.17,2024-04-29,2025-11-21,299.0,3,1,2027-02-24,Dormant,True
+V00320,Newman Inc,IT Services,Asia Pacific,Japan,,False,False,34,Low,2021-09-08,5,1,16306.93,2025-05-31,2025-05-31,473.0,0,0,,Dormant,False
+V00321,"Cruz, Carpenter and Best",Capital Equipment,Europe,Italy,,False,False,60,Medium,2022-06-07,4,6,392384.64,2024-01-01,2025-11-24,296.0,3,1,2027-11-10,Dormant,True
+V00322,Cole PLC,IT Services,Latin America,Argentina,,False,False,31,Low,2021-11-28,5,15,271727.12,2024-03-18,2025-12-10,280.0,2,2,2027-05-03,Dormant,True
+V00323,Jacobs-Mason,Marketing,Europe,UK,,False,False,64,Medium,2023-09-29,3,21,94997.64,2024-02-08,2025-12-26,264.0,3,3,2028-03-25,Dormant,True
+V00324,Garcia-Nolan,Raw Materials,Asia Pacific,China,,True,False,22,Low,2020-01-23,6,10,219026.38,2024-04-14,2025-12-17,273.0,2,0,2025-10-17,Dormant,False
+V00325,"Miller, Lucas and Williams",Raw Materials,Europe,Germany,,False,False,45,Medium,2022-03-30,4,15,189322.58,2024-04-02,2025-10-31,320.0,2,0,2026-08-09,Dormant,False
+V00326,Warren-Bishop,Facilities,Asia Pacific,Australia,,True,False,59,Medium,2020-03-07,6,14,96575.44,2024-02-03,2025-11-08,312.0,1,1,2028-06-25,Dormant,True
+V00327,Hughes-Schroeder,Logistics,North America,Mexico,,False,False,13,Low,2022-01-26,4,2,12574.81,2024-02-24,2025-02-16,577.0,0,0,,Dormant,False
+V00328,Mccormick Ltd,Raw Materials,Asia Pacific,China,,False,False,23,Low,2020-01-03,6,11,194250.82,2024-02-01,2025-11-11,309.0,2,0,2025-11-24,Dormant,False
+V00329,Davis-Gregory,Professional Services,Europe,Netherlands,,False,False,60,Medium,2019-09-15,7,2,14828.05,2024-03-31,2024-10-08,708.0,0,0,,Dormant,False
+V00330,"York, Brandt and Morrison",Professional Services,Latin America,Argentina,Minority-Owned,False,False,29,Low,2018-11-26,8,11,447817.42,2024-03-25,2025-12-08,282.0,2,1,2027-05-18,Dormant,True
+V00331,Aguilar and Sons,Logistics,North America,Mexico,,False,True,40,Medium,2023-07-01,3,1,9306.24,2024-07-03,2024-07-03,805.0,0,0,,Dormant,False
+V00332,Ponce-Hale,Raw Materials,North America,Mexico,Women-Owned,False,False,45,Medium,2020-05-08,6,10,140823.15,2024-04-14,2025-12-05,285.0,1,0,2025-09-12,Dormant,False
+V00333,"Fletcher, Miller and Hansen",IT Services,Latin America,Brazil,,False,False,18,Low,2021-11-10,5,13,379842.18,2024-01-07,2025-11-02,318.0,2,1,2027-04-17,Dormant,True
+V00334,Li-Santiago,Capital Equipment,Latin America,Brazil,,False,False,41,Medium,2022-12-21,4,4,85676.93,2024-09-01,2025-12-14,276.0,2,1,2026-12-04,Dormant,True
+V00335,"Osborn, Gaines and Davis",IT Services,Latin America,Argentina,Minority-Owned,False,False,34,Low,2022-01-08,4,13,503095.11,2024-04-09,2025-12-12,278.0,2,0,2026-02-20,Dormant,False
+V00336,"Cox, Cox and White",Marketing,Europe,Italy,,False,False,17,Low,2019-04-15,7,16,81242.65,2024-09-16,2025-12-30,260.0,1,0,2024-05-11,Dormant,False
+V00337,Lee-Cooke,Raw Materials,North America,USA,Small Business,False,False,20,Low,2018-12-06,8,17,277755.99,2024-01-02,2025-12-28,262.0,1,0,2026-01-10,Dormant,False
+V00338,Richard-Garcia,IT Services,Europe,Netherlands,,False,False,60,Medium,2022-08-16,4,4,101830.83,2024-02-12,2025-03-17,548.0,0,0,,Dormant,False
+V00339,"Stephenson, Johnson and Rogers",Facilities,Latin America,Chile,,False,False,14,Low,2022-08-06,4,10,51533.04,2024-01-09,2025-12-29,261.0,1,0,2026-02-21,Dormant,False
+V00340,Harper and Sons,IT Services,Asia Pacific,China,,False,False,43,Medium,2018-12-22,8,2,20304.36,2024-10-30,2025-02-11,582.0,0,0,,Dormant,False
+V00341,"Wise, Lamb and Martin",MRO,Europe,Germany,,False,False,30,Low,2020-08-16,6,17,67647.7,2024-01-01,2025-12-08,282.0,1,0,2026-05-09,Dormant,False
+V00342,Diaz-Ball,MRO,Latin America,Argentina,,False,False,45,Medium,2023-10-25,3,12,70318.88,2024-01-02,2025-10-29,322.0,2,0,2026-03-21,Dormant,False
+V00343,"Mitchell, Goodman and Cole",IT Services,Europe,Germany,,False,False,42,Medium,2021-03-15,5,10,268503.3,2024-02-13,2025-12-14,276.0,1,0,2026-03-22,Dormant,False
+V00344,Sheppard-Mueller,Facilities,North America,USA,,True,True,27,Low,2023-06-03,3,1,2589.34,2024-05-11,2024-05-11,858.0,0,0,,Dormant,False
+V00345,Richardson PLC,Raw Materials,North America,USA,,False,False,18,Low,2023-11-26,3,3,21982.4,2024-07-20,2025-12-21,269.0,0,0,,Dormant,False
+V00346,Hammond-Strickland,IT Services,North America,USA,,False,False,55,Medium,2021-01-06,5,3,89912.25,2024-04-16,2025-11-19,301.0,0,0,,Dormant,False
+V00347,Burch-Montoya,MRO,Asia Pacific,Australia,,False,False,50,Medium,2022-10-21,4,12,65338.69,2024-03-16,2025-07-03,440.0,1,1,2026-11-16,Dormant,True
+V00348,Salas Inc,Professional Services,Europe,Italy,,False,True,32,Low,2021-11-05,5,12,246539.91,2024-03-17,2025-11-21,299.0,2,1,2028-06-21,Dormant,True
+V00349,Spencer-Garcia,Facilities,Europe,Netherlands,,True,False,29,Low,2023-01-27,3,2,20751.22,2024-03-18,2025-12-21,269.0,0,0,,Dormant,False
+V00350,Mitchell and Sons,Logistics,Latin America,Argentina,,False,False,12,Low,2019-08-21,7,3,57568.53,2024-07-26,2025-11-11,309.0,1,0,2026-02-15,Dormant,False
+V00351,"Hernandez, Kim and Potts",Professional Services,Latin America,Brazil,Minority-Owned,False,False,44,Medium,2019-05-02,7,0,0.0,,,,0,0,,Inactive,False
+V00352,Wilkerson-Arias,Marketing,North America,Mexico,,False,False,57,Medium,2020-06-27,6,13,102657.2,2024-03-24,2025-12-29,261.0,2,0,2025-07-09,Dormant,False
+V00353,Shaw-Young,Professional Services,Asia Pacific,India,,True,False,12,Low,2023-12-19,3,16,493150.69,2024-02-12,2025-12-01,289.0,3,1,2026-11-16,Dormant,True
+V00354,Walker-Flores,Professional Services,Europe,Germany,,False,False,14,Low,2018-08-05,8,22,612514.01,2024-01-17,2025-12-30,260.0,1,0,2025-02-24,Dormant,False
+V00355,"Santos, Moody and Taylor",Capital Equipment,Europe,Italy,,False,False,18,Low,2019-09-21,7,10,258883.13,2024-01-08,2025-10-04,347.0,3,1,2028-04-26,Dormant,True
+V00356,Horton-Taylor,Capital Equipment,Asia Pacific,Japan,Veteran-Owned,True,False,19,Low,2022-03-26,4,13,575504.41,2024-02-02,2025-12-25,265.0,2,0,2026-05-13,Dormant,False
+V00357,Gilbert-Bullock,Travel,North America,Mexico,Small Business,False,False,27,Low,2018-02-11,8,19,155799.74,2024-02-20,2025-12-04,286.0,2,0,2026-05-21,Dormant,False
+V00358,Conley PLC,Logistics,Europe,Netherlands,Women-Owned,False,False,25,Low,2023-08-22,3,9,130379.51,2024-02-09,2025-12-31,259.0,2,1,2026-12-14,Dormant,True
+V00359,"Rose, Rodriguez and Roberts",Professional Services,Asia Pacific,Japan,,False,False,11,Low,2019-10-22,7,12,274014.97,2024-06-25,2025-12-13,277.0,3,1,2026-11-13,Dormant,True
+V00360,Allen Ltd,IT Services,Latin America,Chile,Women-Owned,False,False,58,Medium,2022-10-05,4,3,30989.67,2024-06-09,2024-11-23,662.0,0,0,,Dormant,False
+V00361,Brown-Copeland,Raw Materials,Europe,UK,,False,False,14,Low,2020-12-30,6,13,222849.57,2024-05-24,2025-12-20,270.0,1,0,2026-04-14,Dormant,False
+V00362,"Smith, Robertson and Allen",MRO,Asia Pacific,India,,False,False,26,Low,2018-11-11,8,19,93511.01,2024-01-23,2025-12-27,263.0,3,1,2028-03-07,Dormant,True
+V00363,Smith-Gomez,Professional Services,Asia Pacific,Japan,,False,False,16,Low,2021-06-03,5,12,352014.13,2024-03-06,2025-11-09,311.0,1,1,2027-02-22,Dormant,True
+V00364,Beck Inc,MRO,Latin America,Brazil,,False,False,50,Medium,2021-02-20,5,2,10524.5,2024-02-19,2024-04-10,889.0,0,0,,Dormant,False
+V00365,Jones-Fox,Raw Materials,Europe,Italy,Small Business,False,False,21,Low,2021-01-16,5,9,153069.5,2024-03-12,2025-09-08,373.0,1,0,2025-09-10,Dormant,False
+V00366,"Spencer, Myers and Harrison",Marketing,North America,Mexico,,True,False,30,Low,2021-10-24,5,11,73747.26,2024-02-17,2025-12-08,282.0,2,1,2027-01-16,Dormant,True
+V00367,King-Smith,Logistics,North America,Mexico,,False,False,60,Medium,2022-09-23,4,2,23937.04,2024-02-23,2024-08-17,760.0,0,0,,Dormant,False
+V00368,Allen-Sandoval,IT Services,Latin America,Argentina,,True,False,22,Low,2018-08-16,8,369,10770472.4,2024-01-01,2025-12-30,260.0,2,2,2027-09-18,Dormant,True
+V00369,"Moss, Cook and Williams",IT Services,Asia Pacific,Australia,Veteran-Owned,True,False,33,Low,2021-04-10,5,15,585481.11,2024-04-25,2025-12-19,271.0,1,1,2027-06-21,Dormant,True
+V00370,"Thompson, Maxwell and Marshall",Logistics,Europe,Germany,Women-Owned,False,False,15,Low,2022-03-03,4,13,216657.79,2024-01-30,2025-11-21,299.0,3,2,2027-09-05,Dormant,True
+V00371,"White, Taylor and Baldwin",Logistics,Asia Pacific,Japan,,False,False,26,Low,2023-08-29,3,4,62151.35,2024-01-26,2025-04-09,525.0,1,0,2026-01-24,Dormant,False
+V00372,Carter Inc,Professional Services,Europe,UK,,False,True,38,Low,2022-09-29,4,20,432877.06,2024-01-25,2025-12-15,275.0,2,2,2027-06-10,Dormant,True
+V00373,Stewart LLC,Office Supplies,North America,USA,,False,False,12,Low,2021-02-02,5,3,20654.49,2024-03-22,2025-09-21,360.0,0,0,,Dormant,False
+V00374,"Kennedy, Johnson and Lucas",Logistics,Europe,Germany,,False,False,23,Low,2019-09-19,7,8,164496.71,2024-04-30,2025-09-14,367.0,2,0,2026-01-27,Dormant,False
+V00375,Glenn LLC,Raw Materials,North America,Mexico,Women-Owned,False,False,33,Low,2019-08-22,7,13,223330.67,2024-04-09,2025-12-12,278.0,1,1,2027-08-24,Dormant,True
+V00376,Kim-Ross,Logistics,Latin America,Chile,,True,False,7,Low,2020-08-21,6,12,200135.52,2024-03-17,2025-11-13,307.0,3,0,2026-08-28,Dormant,False
+V00377,Morgan-Lopez,Capital Equipment,North America,USA,Women-Owned,False,False,37,Low,2022-02-24,4,8,465317.83,2024-04-27,2025-12-29,261.0,2,0,2025-09-09,Dormant,False
+V00378,Glass-Stone,Raw Materials,Latin America,Brazil,,False,False,31,Low,2022-10-21,4,14,215432.94,2024-01-02,2025-11-26,294.0,3,0,2026-09-04,Dormant,False
+V00379,"Coleman, Jordan and Carney",Marketing,Asia Pacific,Singapore,,True,False,19,Low,2019-01-31,7,11,63602.38,2024-01-09,2025-10-13,338.0,2,0,2026-03-03,Dormant,False
+V00380,Morris-Miller,MRO,Asia Pacific,China,,False,True,28,Low,2021-12-18,5,3,24401.77,2024-01-02,2024-09-28,718.0,0,0,,Dormant,False
+V00381,Griffin-Robbins,Logistics,Latin America,Chile,,False,False,60,Medium,2018-12-31,8,6,114521.29,2024-01-08,2025-12-07,283.0,2,2,2027-05-04,Dormant,True
+V00382,Bell-Williams,Raw Materials,Asia Pacific,Australia,Women-Owned,False,False,9,Low,2023-03-21,3,13,215505.78,2024-01-04,2025-10-19,332.0,2,2,2027-12-25,Dormant,True
+V00383,Mendez-Graham,Logistics,North America,Mexico,,False,True,27,Low,2021-11-01,5,10,79196.99,2024-03-24,2025-12-01,289.0,2,0,2025-08-21,Dormant,False
+V00384,Jones Ltd,Professional Services,Latin America,Argentina,Minority-Owned,False,False,50,Medium,2020-06-08,6,9,231040.81,2024-09-05,2025-12-30,260.0,2,0,2025-01-26,Dormant,False
+V00385,"Owen, Shelton and Cisneros",Professional Services,North America,USA,Women-Owned,False,False,15,Low,2018-11-09,8,15,751696.79,2024-01-03,2025-12-27,263.0,1,1,2027-09-03,Dormant,True
+V00386,"Gregory, Kim and Martinez",IT Services,North America,USA,,False,False,21,Low,2019-06-01,7,0,0.0,,,,0,0,,Inactive,False
+V00387,"Diaz, Reyes and Bradley",IT Services,North America,Canada,,False,False,46,Medium,2021-08-18,5,16,778444.48,2024-02-25,2025-12-31,259.0,3,1,2026-12-15,Dormant,True
+V00388,"Cole, Watson and Wallace",Capital Equipment,North America,Canada,,False,False,27,Low,2018-06-18,8,0,0.0,,,,0,0,,Inactive,False
+V00389,Moreno Group,Raw Materials,Europe,Italy,,False,False,18,Low,2019-11-20,7,13,254499.54,2024-01-11,2025-11-13,307.0,1,1,2027-01-15,Dormant,True
+V00390,Wright-Wilson,Professional Services,Asia Pacific,Singapore,,False,False,11,Low,2022-05-31,4,3,82494.51,2025-04-12,2025-11-07,313.0,0,0,,Dormant,False
+V00391,Holmes-Mcintyre,Professional Services,North America,Canada,,False,False,42,Medium,2018-09-15,8,12,394058.35,2024-03-06,2025-10-31,320.0,2,1,2026-10-02,Dormant,True
+V00392,Padilla-Lewis,Raw Materials,Europe,Netherlands,,False,False,64,Medium,2021-09-02,5,11,478246.38,2024-01-03,2025-10-19,332.0,3,1,2026-11-04,Dormant,True
+V00393,"Hendricks, Henry and Martinez",Professional Services,Latin America,Chile,,False,False,30,Low,2023-02-11,3,17,519530.68,2024-01-18,2025-12-18,272.0,2,0,2026-07-23,Dormant,False
+V00394,Thompson-Reeves,Logistics,Europe,France,,False,False,41,Medium,2023-12-25,3,9,162991.69,2024-03-12,2025-11-30,290.0,2,0,2025-12-06,Dormant,False
+V00395,"Ponce, Downs and Contreras",Professional Services,Latin America,Chile,,False,False,19,Low,2022-04-03,4,15,432270.28,2024-02-06,2025-11-19,301.0,1,0,2026-03-02,Dormant,False
+V00396,"Daniels, Vance and York",Raw Materials,Europe,France,,False,False,13,Low,2022-04-08,4,12,137873.57,2024-10-14,2025-12-30,260.0,1,0,2026-01-03,Dormant,False
+V00397,"Little, Leon and Hicks",IT Services,Europe,Italy,Small Business,False,False,9,Low,2018-09-23,8,14,318758.54,2024-06-15,2025-12-04,286.0,2,1,2027-02-07,Dormant,True
+V00398,Conner and Sons,IT Services,Latin America,Argentina,,False,False,36,Low,2022-09-27,4,10,356153.07,2024-01-16,2025-11-02,318.0,2,0,2026-02-10,Dormant,False
+V00399,Ward PLC,IT Services,Latin America,Argentina,,False,False,50,Medium,2020-03-18,6,14,332407.36,2024-01-23,2025-11-23,297.0,2,0,2026-03-11,Dormant,False
+V00400,"Anderson, Henson and Jones",Logistics,Latin America,Chile,,False,False,23,Low,2020-05-21,6,10,241604.16,2024-03-23,2025-10-26,325.0,1,0,2026-05-17,Dormant,False
+V00401,"Higgins, Fox and Hammond",Professional Services,Latin America,Argentina,,False,False,40,Medium,2022-12-09,4,7,105974.58,2024-01-20,2025-08-15,397.0,2,1,2027-05-28,Dormant,True
+V00402,Martinez LLC,Marketing,North America,USA,,False,False,26,Low,2021-11-07,5,1,1890.55,2024-12-16,2024-12-16,639.0,0,0,,Dormant,False
+V00403,Owens-Holmes,Logistics,North America,Mexico,Small Business,False,False,38,Low,2018-10-09,8,184,3211246.57,2024-01-03,2025-12-30,260.0,2,2,2028-03-24,Dormant,True
+V00404,"Bowman, White and Burch",MRO,Latin America,Brazil,,False,False,22,Low,2020-08-05,6,1,3910.08,2024-05-31,2024-05-31,838.0,0,0,,Dormant,False
+V00405,Guerra PLC,Raw Materials,Europe,Netherlands,,False,False,4,Low,2018-12-02,8,13,175707.54,2024-01-17,2025-12-01,289.0,1,0,2026-01-20,Dormant,False
+V00406,Martin Ltd,Logistics,Europe,France,Small Business,False,False,16,Low,2019-05-09,7,8,97394.16,2024-04-01,2025-09-17,364.0,1,0,2025-02-21,Dormant,False
+V00407,"Jacobson, Singleton and King",Facilities,North America,USA,Minority-Owned,False,False,19,Low,2021-10-22,5,14,105200.77,2024-03-27,2025-11-29,291.0,1,0,2024-08-01,Dormant,False
+V00408,"Hill, Weber and Mendez",Professional Services,Europe,Italy,,False,False,26,Low,2018-07-24,8,17,509774.92,2024-01-05,2025-12-22,268.0,1,1,2028-03-06,Dormant,True
+V00409,"Jackson, David and Moore",Logistics,Asia Pacific,China,,False,False,35,Low,2021-12-13,5,8,188761.35,2024-07-07,2025-11-24,296.0,1,0,2026-05-22,Dormant,False
+V00410,"Winters, Morgan and Bradshaw",Marketing,North America,Mexico,Minority-Owned,False,False,8,Low,2018-04-01,8,12,75439.87,2024-04-22,2025-12-19,271.0,1,1,2027-01-25,Dormant,True
+V00411,Miller Ltd,Raw Materials,Europe,France,,False,False,10,Low,2022-08-16,4,14,260439.09,2024-04-03,2025-12-07,283.0,1,0,2026-03-15,Dormant,False
+V00412,Curtis-Wang,Professional Services,Europe,UK,,False,True,24,Low,2020-07-01,6,13,416977.97,2024-01-20,2025-11-19,301.0,2,0,2026-02-19,Dormant,False
+V00413,"Johnson, Small and Gardner",Logistics,Europe,Netherlands,,False,False,54,Medium,2021-11-06,5,3,51485.82,2024-03-06,2025-02-02,591.0,2,1,2026-10-27,Dormant,True
+V00414,Webb-Ballard,IT Services,North America,Mexico,,False,False,33,Low,2022-02-09,4,2,72723.2,2024-09-29,2025-07-05,438.0,0,0,,Dormant,False
+V00415,Chavez-Barker,Professional Services,Latin America,Brazil,,False,False,11,Low,2018-12-13,8,16,393674.32,2024-01-25,2025-12-29,261.0,1,0,2026-06-12,Dormant,False
+V00416,Washington-Harris,Logistics,Latin America,Argentina,,True,False,7,Low,2021-08-21,5,12,201348.81,2024-01-06,2025-12-03,287.0,2,1,2026-12-27,Dormant,True
+V00417,Hensley-Flores,Raw Materials,Europe,France,Women-Owned,False,False,22,Low,2023-12-04,3,13,220269.61,2024-02-01,2025-12-12,278.0,1,0,2025-12-26,Dormant,False
+V00418,Hester-Anderson,Professional Services,Europe,France,,False,False,23,Low,2020-03-22,6,12,173588.78,2024-02-14,2025-12-08,282.0,1,0,2026-06-26,Dormant,False
+V00419,"Rodriguez, Allen and Martinez",Professional Services,Europe,Italy,,False,False,46,Medium,2020-09-11,6,14,438366.49,2024-01-31,2025-11-14,306.0,1,1,2027-06-10,Dormant,True
+V00420,Davis LLC,Logistics,Europe,Italy,,False,False,10,Low,2023-09-02,3,1,7031.09,2024-08-10,2024-08-10,767.0,0,0,,Dormant,False
+V00421,"Barnes, Estes and Barrera",Marketing,North America,Canada,Veteran-Owned,False,False,35,Low,2022-11-17,4,12,105185.79,2024-07-04,2025-11-28,292.0,2,1,2028-01-12,Dormant,True
+V00422,"Griffith, Lee and Moore",Professional Services,Latin America,Chile,,False,False,11,Low,2023-12-22,3,18,340521.18,2024-01-12,2025-12-04,286.0,2,0,2026-02-07,Dormant,False
+V00423,Jimenez-Parker,Raw Materials,North America,Mexico,,False,False,52,Medium,2018-02-20,8,12,255552.17,2024-02-14,2025-11-13,307.0,2,0,2026-06-14,Dormant,False
+V00424,Wagner-Levy,Professional Services,Asia Pacific,India,Minority-Owned,False,False,46,Medium,2019-04-17,7,15,724726.32,2024-01-16,2025-12-29,261.0,2,0,2026-01-14,Dormant,False
+V00425,Williams-Campbell,Raw Materials,North America,Mexico,,False,False,44,Medium,2021-08-01,5,10,99081.51,2024-05-12,2025-12-20,270.0,2,2,2027-06-18,Dormant,True
+V00426,"Chambers, Mitchell and Smith",Professional Services,North America,Mexico,,False,False,45,Medium,2018-08-24,8,2,7860.97,2025-04-21,2025-10-01,350.0,0,0,,Dormant,False
+V00427,Khan Ltd,MRO,Europe,France,Women-Owned,True,False,20,Low,2020-03-12,6,10,35795.7,2024-01-09,2025-08-01,411.0,3,2,2028-06-22,Dormant,True
+V00428,Diaz-Morales,Capital Equipment,North America,Canada,Women-Owned,True,False,55,Medium,2021-06-02,5,1,34889.02,2025-11-28,2025-11-28,292.0,0,0,,Dormant,False
+V00429,Cox LLC,IT Services,Asia Pacific,Australia,,False,False,24,Low,2018-06-11,8,11,338212.91,2024-02-10,2025-12-28,262.0,2,1,2027-01-20,Dormant,True
+V00430,"Cole, Pierce and Bryan",IT Services,Europe,Germany,,False,False,35,Low,2021-09-26,5,20,580404.55,2024-01-14,2025-12-12,278.0,2,0,2026-05-07,Dormant,False
+V00431,"Wilson, Hester and Long",IT Services,Asia Pacific,Japan,,False,False,56,Medium,2022-10-07,4,2,44784.31,2024-07-24,2025-06-06,467.0,0,0,,Dormant,False
+V00432,Grant-Diaz,Capital Equipment,North America,USA,Veteran-Owned,False,False,6,Low,2018-11-12,8,10,603039.11,2024-04-08,2025-10-07,344.0,2,1,2028-01-24,Dormant,True
+V00433,"Hicks, Porter and Williams",Office Supplies,Europe,UK,,False,False,47,Medium,2018-10-28,8,16,97082.59,2024-02-28,2025-12-06,284.0,2,1,2026-12-24,Dormant,True
+V00434,Brock-Stone,MRO,Latin America,Chile,,False,False,36,Low,2018-11-23,8,19,122787.69,2024-03-02,2025-12-27,263.0,1,1,2027-08-10,Dormant,True
+V00435,"Taylor, Velazquez and Flores",Professional Services,North America,Mexico,Minority-Owned,False,False,40,Medium,2020-05-10,6,1,12072.12,2025-06-02,2025-06-02,471.0,0,0,,Dormant,False
+V00436,"Stevenson, Evans and Rogers",MRO,Asia Pacific,Singapore,Veteran-Owned,False,True,14,Low,2022-12-19,4,5,21565.07,2024-01-18,2025-12-01,289.0,0,0,,Dormant,False
+V00437,"Burns, Hart and Wells",MRO,North America,Mexico,Veteran-Owned,False,False,14,Low,2018-02-06,8,12,102281.54,2024-01-04,2025-10-10,341.0,1,0,2026-05-29,Dormant,False
+V00438,Nunez-Whitney,Capital Equipment,Latin America,Brazil,Veteran-Owned,False,False,26,Low,2021-07-02,5,8,493428.52,2024-02-14,2025-08-13,399.0,1,0,2026-07-03,Dormant,False
+V00439,"Wiggins, Soto and Carlson",Professional Services,Asia Pacific,Japan,,True,False,26,Low,2019-08-05,7,13,396697.94,2024-05-17,2025-12-25,265.0,1,0,2024-12-09,Dormant,False
+V00440,"Patton, Parsons and Lane",Marketing,North America,USA,,False,False,20,Low,2022-04-29,4,17,54408.77,2024-04-06,2025-12-31,259.0,2,1,2026-12-26,Dormant,True
+V00441,"Castillo, Warren and Griffith",IT Services,Europe,Netherlands,,False,False,51,Medium,2022-08-24,4,12,160016.72,2024-01-02,2025-11-22,298.0,3,0,2026-04-27,Dormant,False
+V00442,Hernandez-Becker,Office Supplies,Europe,France,,False,False,1,Low,2018-03-11,8,2,5792.24,2024-11-01,2025-11-07,313.0,0,0,,Dormant,False
+V00443,"Rodriguez, Smith and Edwards",Logistics,Asia Pacific,China,,False,False,23,Low,2018-11-28,8,5,68167.13,2024-02-17,2025-05-09,495.0,2,0,2025-11-01,Dormant,False
+V00444,"Harris, Shaw and Carr",Professional Services,Asia Pacific,India,,True,True,8,Low,2020-10-29,6,1,36980.9,2025-05-12,2025-05-12,492.0,0,0,,Dormant,False
+V00445,"Luna, Thornton and Stone",IT Services,North America,USA,,False,False,54,Medium,2021-05-13,5,11,185469.83,2024-11-30,2025-10-28,323.0,2,0,2025-02-23,Dormant,False
+V00446,"Mendoza, Bennett and Frye",IT Services,Asia Pacific,China,Small Business,False,False,33,Low,2020-10-03,6,2,29146.7,2025-11-06,2025-12-19,271.0,0,0,,Dormant,False
+V00447,"Peterson, Gomez and Ingram",IT Services,Latin America,Brazil,,True,False,22,Low,2022-04-28,4,11,432672.36,2024-05-07,2025-10-08,343.0,2,1,2027-01-18,Dormant,True
+V00448,"Lara, Baker and Washington",Capital Equipment,Europe,Netherlands,,False,False,12,Low,2023-09-28,3,11,982811.88,2024-03-07,2025-12-15,275.0,2,1,2027-12-12,Dormant,True
+V00449,Grant-Walker,Office Supplies,Europe,Germany,,True,False,32,Low,2023-11-01,3,16,65931.54,2024-03-31,2025-11-22,298.0,1,0,2025-08-10,Dormant,False
+V00450,Wise-Bush,Raw Materials,Europe,UK,Women-Owned,False,False,9,Low,2022-02-20,4,17,243829.3,2024-02-07,2025-11-03,317.0,3,0,2025-12-19,Dormant,False
+V00451,Stewart-Bailey,IT Services,North America,USA,,False,False,33,Low,2023-08-07,3,9,246044.21,2024-02-09,2025-12-01,289.0,1,0,2026-02-03,Dormant,False
+V00452,"Hill, Martinez and Rhodes",Travel,Asia Pacific,India,,False,False,58,Medium,2020-04-11,6,21,71099.88,2024-05-01,2025-12-17,273.0,2,0,2026-08-11,Dormant,False
+V00453,Cardenas-Blevins,Logistics,Asia Pacific,China,Minority-Owned,False,False,54,Medium,2022-10-29,4,7,98882.78,2024-04-30,2025-12-25,265.0,2,2,2027-03-07,Dormant,True
+V00454,Williams-Moses,Raw Materials,Europe,Netherlands,,True,False,14,Low,2018-06-23,8,13,257960.86,2024-06-19,2025-12-15,275.0,1,0,2026-05-31,Dormant,False
+V00455,Douglas-Burgess,Facilities,Latin America,Chile,,False,False,53,Medium,2019-04-14,7,18,177321.38,2024-01-25,2025-10-15,336.0,1,0,2026-06-14,Dormant,False
+V00456,"Nelson, Hoffman and Nelson",Raw Materials,North America,Canada,Women-Owned,True,False,4,Low,2018-08-28,8,12,191351.01,2024-08-24,2025-10-30,321.0,3,0,2026-08-03,Dormant,False
+V00457,"Matthews, Sanchez and Santiago",Raw Materials,Asia Pacific,Australia,,False,False,22,Low,2021-03-08,5,2,37237.18,2025-05-17,2025-10-31,320.0,0,0,,Dormant,False
+V00458,"Hall, Garcia and Rivera",MRO,North America,Mexico,,False,True,15,Low,2020-10-31,6,0,0.0,,,,0,0,,Inactive,False
+V00459,"Townsend, Smith and Pierce",IT Services,Latin America,Argentina,,False,False,3,Low,2023-07-28,3,2,69002.24,2025-01-18,2025-09-20,361.0,0,0,,Dormant,False
+V00460,Delgado-Gilmore,Raw Materials,Latin America,Brazil,,False,False,41,Medium,2020-11-07,6,4,22883.37,2024-01-14,2025-12-30,260.0,0,0,,Dormant,False
+V00461,"Gonzalez, Maynard and Morris",IT Services,North America,Mexico,Women-Owned,False,False,47,Medium,2021-11-15,5,15,442490.63,2024-01-13,2025-10-04,347.0,1,0,2025-03-26,Dormant,False
+V00462,Pearson and Sons,Professional Services,North America,Canada,,False,False,45,Medium,2021-03-17,5,11,161241.74,2024-09-29,2025-12-25,265.0,3,1,2027-09-26,Dormant,True
+V00463,"Jefferson, Johnson and Dorsey",IT Services,North America,Canada,,False,True,29,Low,2020-07-04,6,11,310076.77,2024-06-01,2025-10-30,321.0,1,0,2024-09-30,Dormant,False
+V00464,Peck Inc,Logistics,Europe,Germany,,True,True,32,Low,2023-12-24,3,2,16283.41,2024-11-05,2025-05-07,497.0,0,0,,Dormant,False
+V00465,French-Lopez,Raw Materials,Asia Pacific,Australia,,False,False,60,Medium,2022-06-29,4,14,229112.51,2024-05-06,2025-12-31,259.0,1,0,2026-01-17,Dormant,False
+V00466,Mcdowell-Smith,Professional Services,Asia Pacific,China,,True,False,22,Low,2021-05-28,5,12,427562.98,2024-01-23,2025-12-28,262.0,2,1,2027-04-11,Dormant,True
+V00467,Hebert LLC,Professional Services,North America,Canada,,False,True,32,Low,2019-09-16,7,1,10129.34,2024-01-04,2024-01-04,986.0,0,0,,Dormant,False
+V00468,"Daniels, Snyder and Mays",Raw Materials,Asia Pacific,China,,False,False,76,High,2023-02-07,3,18,343411.54,2024-01-05,2025-12-29,261.0,3,2,2027-02-25,Dormant,True
+V00469,Nelson-Lamb,Professional Services,North America,Mexico,,True,False,47,Medium,2019-12-26,7,3,93715.84,2024-09-10,2025-06-19,454.0,0,0,,Dormant,False
+V00470,"Stevens, Scott and Lopez",IT Services,North America,USA,,False,False,46,Medium,2022-06-02,4,8,204888.89,2024-10-20,2025-09-28,353.0,1,1,2027-05-26,Dormant,True
+V00471,Bradley-Todd,IT Services,North America,Mexico,Minority-Owned,False,False,33,Low,2019-01-20,7,16,404334.61,2024-03-07,2025-12-31,259.0,2,0,2026-06-17,Dormant,False
+V00472,"Prince, Wilcox and Robertson",Professional Services,Europe,Netherlands,Women-Owned,False,False,29,Low,2018-07-09,8,9,221503.36,2024-02-03,2025-12-12,278.0,2,0,2026-03-12,Dormant,False
+V00473,"Davis, Holden and Woods",Raw Materials,North America,Mexico,,True,False,30,Low,2023-08-12,3,11,248549.27,2024-08-12,2025-12-25,265.0,2,1,2027-05-23,Dormant,True
+V00474,Green and Sons,Raw Materials,North America,Canada,,False,False,32,Low,2020-09-05,6,3,34724.08,2025-04-07,2025-09-07,374.0,0,0,,Dormant,False
+V00475,Finley-Turner,Marketing,Asia Pacific,China,,True,False,6,Low,2022-05-03,4,14,57807.87,2024-03-13,2025-10-24,327.0,3,0,2025-10-08,Dormant,False
+V00476,Green LLC,Raw Materials,Asia Pacific,Australia,,False,False,33,Low,2022-02-26,4,12,188527.52,2024-02-01,2025-10-04,347.0,3,0,2026-05-11,Dormant,False
+V00477,Contreras Group,Office Supplies,Europe,Italy,,False,True,56,Medium,2019-11-03,7,3,17051.73,2025-01-26,2025-11-30,290.0,0,0,,Dormant,False
+V00478,Parks-Leblanc,Professional Services,Europe,Italy,,False,False,16,Low,2023-04-29,3,16,538594.64,2024-02-21,2025-11-14,306.0,1,0,2024-01-16,Dormant,False
+V00479,Vaughn-Fowler,Facilities,North America,Mexico,,False,False,32,Low,2023-08-22,3,9,23769.8,2024-01-16,2025-12-31,259.0,2,0,2024-11-13,Dormant,False
+V00480,Mendez-Robinson,IT Services,Europe,Netherlands,,True,False,25,Low,2018-10-20,8,12,322528.85,2024-02-02,2025-12-25,265.0,1,0,2024-04-04,Dormant,False
+V00481,Gibson PLC,MRO,North America,USA,Women-Owned,False,False,21,Low,2020-03-29,6,0,0.0,,,,0,0,,Inactive,False
+V00482,"Dunn, Ruiz and Medina",MRO,Asia Pacific,Singapore,Veteran-Owned,True,True,44,Medium,2021-12-25,5,17,56125.94,2024-04-26,2025-12-24,266.0,2,1,2028-03-09,Dormant,True
+V00483,Gill Ltd,IT Services,Latin America,Brazil,,True,False,19,Low,2022-07-11,4,1,6686.8,2025-05-10,2025-05-10,494.0,0,0,,Dormant,False
+V00484,Fox PLC,IT Services,Asia Pacific,Japan,Minority-Owned,False,False,42,Medium,2022-03-22,4,8,223819.68,2024-03-25,2025-12-20,270.0,1,0,2025-09-25,Dormant,False
+V00485,Stark Inc,Marketing,Asia Pacific,Japan,,False,False,31,Low,2018-05-16,8,15,131872.54,2024-03-13,2025-11-20,300.0,1,1,2027-09-08,Dormant,True
+V00486,"Leach, Harris and Herrera",IT Services,North America,USA,,False,False,8,Low,2018-12-27,8,15,398376.76,2024-02-23,2025-12-01,289.0,2,1,2026-10-03,Dormant,True
+V00487,"Ramos, Frazier and Love",IT Services,Asia Pacific,India,,False,False,18,Low,2020-12-06,6,3,95982.9,2025-02-18,2025-12-22,268.0,0,0,,Dormant,False
+V00488,"Griffin, Brown and Anderson",IT Services,Asia Pacific,Australia,,False,False,28,Low,2020-06-28,6,9,167894.76,2024-04-24,2025-12-24,266.0,3,0,2026-01-01,Dormant,False
+V00489,"Brown, Ford and Roman",IT Services,Europe,France,,True,False,19,Low,2022-05-03,4,3,31560.09,2024-05-14,2025-01-20,604.0,0,0,,Dormant,False
+V00490,Scott-Smith,Marketing,Europe,Germany,Veteran-Owned,False,False,25,Low,2019-04-23,7,15,102077.97,2024-06-11,2025-11-13,307.0,1,0,2025-06-12,Dormant,False
+V00491,Williams LLC,Raw Materials,North America,Canada,,False,False,26,Low,2022-03-14,4,25,412955.71,2024-01-06,2025-12-31,259.0,1,0,2025-06-23,Dormant,False
+V00492,"Mcknight, Michael and Jones",IT Services,Europe,UK,,False,False,18,Low,2023-08-07,3,13,393388.62,2024-05-21,2025-11-18,302.0,2,0,2025-10-31,Dormant,False
+V00493,Mitchell and Sons,Facilities,North America,Mexico,,False,True,12,Low,2022-08-12,4,1,4464.92,2025-02-09,2025-02-09,584.0,0,0,,Dormant,False
+V00494,"Good, Brewer and Fisher",Office Supplies,Europe,Netherlands,Minority-Owned,True,False,35,Low,2023-12-15,3,20,85444.31,2024-02-18,2025-12-21,269.0,3,0,2026-06-24,Dormant,False
+V00495,West-Stark,Marketing,North America,USA,Women-Owned,True,False,1,Low,2020-04-06,6,14,46839.85,2024-01-07,2025-12-21,269.0,1,0,2025-11-06,Dormant,False
+V00496,Vega Ltd,Raw Materials,Latin America,Chile,,False,False,22,Low,2023-03-31,3,10,248978.94,2024-03-22,2025-12-03,287.0,3,1,2027-03-09,Dormant,True
+V00497,Valdez LLC,IT Services,Europe,France,,False,True,36,Low,2018-09-17,8,0,0.0,,,,0,0,,Inactive,False
+V00498,"Long, Anderson and Irwin",Logistics,Europe,France,,False,False,47,Medium,2023-01-03,3,5,86445.01,2025-03-10,2025-12-22,268.0,1,0,2026-01-06,Dormant,False
+V00499,Good Group,IT Services,Latin America,Brazil,,False,False,23,Low,2022-01-14,4,12,274188.15,2024-03-08,2025-12-17,273.0,2,2,2028-04-17,Dormant,True
+V00500,"Coleman, Gray and Hall",Professional Services,North America,Canada,Minority-Owned,False,False,60,Medium,2020-10-05,6,4,252917.73,2024-11-26,2025-12-01,289.0,0,0,,Dormant,False
